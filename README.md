@@ -126,6 +126,7 @@ git add -A
 uvx pre-commit run --all-files
 
 uv run python -m cintel.case_drift_detector
+uv run python -m cintel.drift_detector_alex
 
 uv run ruff format .
 uv run ruff check . --fix

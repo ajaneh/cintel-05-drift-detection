@@ -1,0 +1,17 @@
+field_name,field_value
+reference_avg_requests,128.3
+reference_sigma_requests,4.164666186436128
+reference_avg_errors,2.3
+reference_avg_latency_ms,3835.0
+current_avg_requests,164.5
+current_sigma_requests,5.582711408148075
+current_avg_errors,6.3
+current_avg_latency_ms,5670.0
+requests_mean_difference,36.2
+requests_sigma_difference,1.42
+errors_mean_difference,4.0
+latency_mean_difference_ms,1835.0
+requests_is_drifting_flag,True
+requests_sigma_is_drifting_flag,False
+errors_is_drifting_flag,True
+latency_is_drifting_flag,True
