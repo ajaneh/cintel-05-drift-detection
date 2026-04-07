@@ -19,9 +19,12 @@ authors:
     given-names: Denise M.
     orcid: "https://orcid.org/0000-0001-6165-7389"
     affiliation: "Northwest Missouri State University, USA"
+  - family-names: Heyert
+    given-names: Alexanndra J.
+    affiliation: "Northwest Missouri State University, USA"
 
-repository-code: "https://github.com/denisecase/cintel-05-drift-detection"
-url: "https://github.com/denisecase/cintel-05-drift-detection"
+repository-code: "https://github.com/ajaneh/cintel-05-drift-detection"
+url: "https://github.com/ajaneh/cintel-05-drift-detection"
 license: MIT
 
 abstract: |

@@ -108,7 +108,7 @@ open a machine terminal in your `Repos` folder:
 
 ```shell
 # Replace username with YOUR GitHub username.
-git clone https://github.com/username/cintel-05-drift-detection
+git clone https://github.com/ajaneh/cintel-05-drift-detection
 
 cd cintel-05-drift-detection
 code .
