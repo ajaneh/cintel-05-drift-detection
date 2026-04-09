@@ -303,3 +303,2010 @@
 2026-04-07 11:37:33 | INFO | P5 | Pipeline executed successfully!
 2026-04-07 11:37:33 | INFO | P5 | ========================
 2026-04-07 11:37:33 | INFO | P5 | END main()
+2026-04-09 11:46:54 | INFO | P5 | === RUN START ===
+2026-04-09 11:46:54 | INFO | P5 | project=CINTEL
+2026-04-09 11:46:54 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 11:46:54 | INFO | P5 | python=3.14.0
+2026-04-09 11:46:54 | INFO | P5 | os=Windows 11
+2026-04-09 11:46:54 | INFO | P5 | shell=powershell
+2026-04-09 11:46:54 | INFO | P5 | cwd=.
+2026-04-09 11:46:54 | INFO | P5 | github_actions=False
+2026-04-09 11:46:54 | INFO | P5 | ========================
+2026-04-09 11:46:54 | INFO | P5 | START main()
+2026-04-09 11:46:54 | INFO | P5 | ========================
+2026-04-09 11:46:54 | INFO | P5 | ROOT_DIR = .
+2026-04-09 11:46:54 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 11:46:54 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 11:46:54 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 11:48:51 | INFO | P5 | === RUN START ===
+2026-04-09 11:48:51 | INFO | P5 | project=CINTEL
+2026-04-09 11:48:51 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 11:48:51 | INFO | P5 | python=3.14.0
+2026-04-09 11:48:51 | INFO | P5 | os=Windows 11
+2026-04-09 11:48:51 | INFO | P5 | shell=powershell
+2026-04-09 11:48:51 | INFO | P5 | cwd=.
+2026-04-09 11:48:51 | INFO | P5 | github_actions=False
+2026-04-09 11:48:51 | INFO | P5 | ========================
+2026-04-09 11:48:51 | INFO | P5 | START main()
+2026-04-09 11:48:51 | INFO | P5 | ========================
+2026-04-09 11:48:51 | INFO | P5 | ROOT_DIR = .
+2026-04-09 11:48:51 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 11:48:51 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 11:48:51 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 11:50:21 | INFO | P5 | === RUN START ===
+2026-04-09 11:50:21 | INFO | P5 | project=CINTEL
+2026-04-09 11:50:21 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 11:50:21 | INFO | P5 | python=3.14.0
+2026-04-09 11:50:21 | INFO | P5 | os=Windows 11
+2026-04-09 11:50:21 | INFO | P5 | shell=powershell
+2026-04-09 11:50:21 | INFO | P5 | cwd=.
+2026-04-09 11:50:21 | INFO | P5 | github_actions=False
+2026-04-09 11:50:21 | INFO | P5 | ========================
+2026-04-09 11:50:21 | INFO | P5 | START main()
+2026-04-09 11:50:21 | INFO | P5 | ========================
+2026-04-09 11:50:21 | INFO | P5 | ROOT_DIR = .
+2026-04-09 11:50:21 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 11:50:21 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 11:50:21 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 11:53:11 | INFO | P5 | === RUN START ===
+2026-04-09 11:53:11 | INFO | P5 | project=CINTEL
+2026-04-09 11:53:11 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 11:53:11 | INFO | P5 | python=3.14.0
+2026-04-09 11:53:11 | INFO | P5 | os=Windows 11
+2026-04-09 11:53:11 | INFO | P5 | shell=powershell
+2026-04-09 11:53:11 | INFO | P5 | cwd=.
+2026-04-09 11:53:11 | INFO | P5 | github_actions=False
+2026-04-09 11:53:11 | INFO | P5 | ========================
+2026-04-09 11:53:11 | INFO | P5 | START main()
+2026-04-09 11:53:11 | INFO | P5 | ========================
+2026-04-09 11:53:11 | INFO | P5 | ROOT_DIR = .
+2026-04-09 11:53:11 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 11:53:11 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 11:53:11 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 11:53:11 | INFO | P5 | Loaded 6676 current records
+2026-04-09 11:53:11 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 11:54:52 | INFO | P5 | === RUN START ===
+2026-04-09 11:54:52 | INFO | P5 | project=CINTEL
+2026-04-09 11:54:52 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 11:54:52 | INFO | P5 | python=3.14.0
+2026-04-09 11:54:52 | INFO | P5 | os=Windows 11
+2026-04-09 11:54:52 | INFO | P5 | shell=powershell
+2026-04-09 11:54:52 | INFO | P5 | cwd=.
+2026-04-09 11:54:52 | INFO | P5 | github_actions=False
+2026-04-09 11:54:52 | INFO | P5 | ========================
+2026-04-09 11:54:52 | INFO | P5 | START main()
+2026-04-09 11:54:52 | INFO | P5 | ========================
+2026-04-09 11:54:52 | INFO | P5 | ROOT_DIR = .
+2026-04-09 11:54:52 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 11:54:52 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 11:54:52 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 11:54:52 | INFO | P5 | Loaded 6676 current records
+2026-04-09 11:54:52 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 11:55:33 | INFO | P5 | === RUN START ===
+2026-04-09 11:55:33 | INFO | P5 | project=CINTEL
+2026-04-09 11:55:33 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 11:55:33 | INFO | P5 | python=3.14.0
+2026-04-09 11:55:33 | INFO | P5 | os=Windows 11
+2026-04-09 11:55:33 | INFO | P5 | shell=powershell
+2026-04-09 11:55:33 | INFO | P5 | cwd=.
+2026-04-09 11:55:33 | INFO | P5 | github_actions=False
+2026-04-09 11:55:33 | INFO | P5 | ========================
+2026-04-09 11:55:33 | INFO | P5 | START main()
+2026-04-09 11:55:33 | INFO | P5 | ========================
+2026-04-09 11:55:33 | INFO | P5 | ROOT_DIR = .
+2026-04-09 11:55:33 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 11:55:33 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 11:55:33 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 11:55:33 | INFO | P5 | Loaded 6676 current records
+2026-04-09 11:55:33 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 11:55:33 | INFO | P5 | Baseline dataframe shape: (1, 1)
+┌─────────┐
+│ literal │
+│ ---     │
+│ i32     │
+╞═════════╡
+│ 10      │
+└─────────┘
+2026-04-09 11:55:51 | INFO | P5 | === RUN START ===
+2026-04-09 11:55:51 | INFO | P5 | project=CINTEL
+2026-04-09 11:55:51 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 11:55:51 | INFO | P5 | python=3.14.0
+2026-04-09 11:55:51 | INFO | P5 | os=Windows 11
+2026-04-09 11:55:51 | INFO | P5 | shell=powershell
+2026-04-09 11:55:51 | INFO | P5 | cwd=.
+2026-04-09 11:55:51 | INFO | P5 | github_actions=False
+2026-04-09 11:55:51 | INFO | P5 | ========================
+2026-04-09 11:55:51 | INFO | P5 | START main()
+2026-04-09 11:55:51 | INFO | P5 | ========================
+2026-04-09 11:55:51 | INFO | P5 | ROOT_DIR = .
+2026-04-09 11:55:51 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 11:55:51 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 11:55:51 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 11:55:51 | INFO | P5 | Loaded 6676 current records
+2026-04-09 11:55:51 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 11:55:51 | INFO | P5 | Baseline dataframe shape: (10, 2)
+┌───────────┬─────────────────────┐
+│ DAYTON_MW ┆ Datetime            │
+│ ---       ┆ ---                 │
+│ f64       ┆ datetime[μs]        │
+╞═══════════╪═════════════════════╡
+│ 20.867    ┆ 2022-01-04 00:00:00 │
+│ 21.0      ┆ 2022-01-04 01:00:00 │
+│ 20.867    ┆ 2022-01-04 02:00:00 │
+│ 20.65     ┆ 2022-01-04 03:00:00 │
+│ 20.4      ┆ 2022-01-04 04:00:00 │
+│ 20.1      ┆ 2022-01-04 05:00:00 │
+│ 19.8      ┆ 2022-01-04 06:00:00 │
+│ 19.5      ┆ 2022-01-04 07:00:00 │
+│ 19.4      ┆ 2022-01-04 08:00:00 │
+│ 19.5      ┆ 2022-01-04 09:00:00 │
+└───────────┴─────────────────────┘
+2026-04-09 11:55:51 | INFO | P5 | Calculated summary statistics for reference and current periods
+2026-04-09 11:56:43 | INFO | P5 | === RUN START ===
+2026-04-09 11:56:43 | INFO | P5 | project=CINTEL
+2026-04-09 11:56:43 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 11:56:43 | INFO | P5 | python=3.14.0
+2026-04-09 11:56:43 | INFO | P5 | os=Windows 11
+2026-04-09 11:56:43 | INFO | P5 | shell=powershell
+2026-04-09 11:56:43 | INFO | P5 | cwd=.
+2026-04-09 11:56:43 | INFO | P5 | github_actions=False
+2026-04-09 11:56:43 | INFO | P5 | ========================
+2026-04-09 11:56:43 | INFO | P5 | START main()
+2026-04-09 11:56:43 | INFO | P5 | ========================
+2026-04-09 11:56:43 | INFO | P5 | ROOT_DIR = .
+2026-04-09 11:56:43 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 11:56:43 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 11:56:43 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 11:56:43 | INFO | P5 | Loaded 6676 current records
+2026-04-09 11:56:43 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 11:56:43 | INFO | P5 | Baseline dataframe shape: (10, 2)
+┌───────────┬─────────────────────┐
+│ DAYTON_MW ┆ Datetime            │
+│ ---       ┆ ---                 │
+│ f64       ┆ datetime[μs]        │
+╞═══════════╪═════════════════════╡
+│ 20.867    ┆ 2022-01-04 00:00:00 │
+│ 21.0      ┆ 2022-01-04 01:00:00 │
+│ 20.867    ┆ 2022-01-04 02:00:00 │
+│ 20.65     ┆ 2022-01-04 03:00:00 │
+│ 20.4      ┆ 2022-01-04 04:00:00 │
+│ 20.1      ┆ 2022-01-04 05:00:00 │
+│ 19.8      ┆ 2022-01-04 06:00:00 │
+│ 19.5      ┆ 2022-01-04 07:00:00 │
+│ 19.4      ┆ 2022-01-04 08:00:00 │
+│ 19.5      ┆ 2022-01-04 09:00:00 │
+└───────────┴─────────────────────┘
+2026-04-09 11:56:43 | INFO | P5 | Calculated summary statistics for reference and current periods
+2026-04-09 11:56:43 | INFO | P5 | Calculated summary differences and drift flags
+2026-04-09 11:59:23 | INFO | P5 | === RUN START ===
+2026-04-09 11:59:23 | INFO | P5 | project=CINTEL
+2026-04-09 11:59:23 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 11:59:23 | INFO | P5 | python=3.14.0
+2026-04-09 11:59:23 | INFO | P5 | os=Windows 11
+2026-04-09 11:59:23 | INFO | P5 | shell=powershell
+2026-04-09 11:59:23 | INFO | P5 | cwd=.
+2026-04-09 11:59:23 | INFO | P5 | github_actions=False
+2026-04-09 11:59:23 | INFO | P5 | ========================
+2026-04-09 11:59:23 | INFO | P5 | START main()
+2026-04-09 11:59:23 | INFO | P5 | ========================
+2026-04-09 11:59:23 | INFO | P5 | ROOT_DIR = .
+2026-04-09 11:59:23 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 11:59:23 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 11:59:23 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 11:59:23 | INFO | P5 | Loaded 6676 current records
+2026-04-09 11:59:23 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 11:59:23 | INFO | P5 | Baseline dataframe shape: (10, 2)
+┌───────────┬─────────────────────┐
+│ DAYTON_MW ┆ Datetime            │
+│ ---       ┆ ---                 │
+│ f64       ┆ datetime[μs]        │
+╞═══════════╪═════════════════════╡
+│ 20.867    ┆ 2022-01-04 00:00:00 │
+│ 21.0      ┆ 2022-01-04 01:00:00 │
+│ 20.867    ┆ 2022-01-04 02:00:00 │
+│ 20.65     ┆ 2022-01-04 03:00:00 │
+│ 20.4      ┆ 2022-01-04 04:00:00 │
+│ 20.1      ┆ 2022-01-04 05:00:00 │
+│ 19.8      ┆ 2022-01-04 06:00:00 │
+│ 19.5      ┆ 2022-01-04 07:00:00 │
+│ 19.4      ┆ 2022-01-04 08:00:00 │
+│ 19.5      ┆ 2022-01-04 09:00:00 │
+└───────────┴─────────────────────┘
+2026-04-09 11:59:23 | INFO | P5 | Calculated summary statistics for reference and current periods
+2026-04-09 11:59:23 | INFO | P5 | Calculated summary differences and drift flags
+2026-04-09 12:00:33 | INFO | P5 | === RUN START ===
+2026-04-09 12:00:33 | INFO | P5 | project=CINTEL
+2026-04-09 12:00:33 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 12:00:33 | INFO | P5 | python=3.14.0
+2026-04-09 12:00:33 | INFO | P5 | os=Windows 11
+2026-04-09 12:00:33 | INFO | P5 | shell=powershell
+2026-04-09 12:00:33 | INFO | P5 | cwd=.
+2026-04-09 12:00:33 | INFO | P5 | github_actions=False
+2026-04-09 12:00:33 | INFO | P5 | ========================
+2026-04-09 12:00:33 | INFO | P5 | START main()
+2026-04-09 12:00:33 | INFO | P5 | ========================
+2026-04-09 12:00:33 | INFO | P5 | ROOT_DIR = .
+2026-04-09 12:00:33 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 12:00:33 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 12:00:33 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 12:00:33 | INFO | P5 | Loaded 6676 current records
+2026-04-09 12:00:33 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 12:00:33 | INFO | P5 | Baseline dataframe shape: (10, 2)
+┌───────────┬─────────────────────┐
+│ DAYTON_MW ┆ Datetime            │
+│ ---       ┆ ---                 │
+│ f64       ┆ datetime[μs]        │
+╞═══════════╪═════════════════════╡
+│ 20.867    ┆ 2022-01-04 00:00:00 │
+│ 21.0      ┆ 2022-01-04 01:00:00 │
+│ 20.867    ┆ 2022-01-04 02:00:00 │
+│ 20.65     ┆ 2022-01-04 03:00:00 │
+│ 20.4      ┆ 2022-01-04 04:00:00 │
+│ 20.1      ┆ 2022-01-04 05:00:00 │
+│ 19.8      ┆ 2022-01-04 06:00:00 │
+│ 19.5      ┆ 2022-01-04 07:00:00 │
+│ 19.4      ┆ 2022-01-04 08:00:00 │
+│ 19.5      ┆ 2022-01-04 09:00:00 │
+└───────────┴─────────────────────┘
+2026-04-09 12:00:33 | INFO | P5 | Calculated summary statistics for reference and current periods
+2026-04-09 12:00:33 | INFO | P5 | Calculated summary differences and drift flags
+2026-04-09 12:01:15 | INFO | P5 | === RUN START ===
+2026-04-09 12:01:15 | INFO | P5 | project=CINTEL
+2026-04-09 12:01:15 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 12:01:15 | INFO | P5 | python=3.14.0
+2026-04-09 12:01:15 | INFO | P5 | os=Windows 11
+2026-04-09 12:01:15 | INFO | P5 | shell=powershell
+2026-04-09 12:01:15 | INFO | P5 | cwd=.
+2026-04-09 12:01:15 | INFO | P5 | github_actions=False
+2026-04-09 12:01:15 | INFO | P5 | ========================
+2026-04-09 12:01:15 | INFO | P5 | START main()
+2026-04-09 12:01:15 | INFO | P5 | ========================
+2026-04-09 12:01:15 | INFO | P5 | ROOT_DIR = .
+2026-04-09 12:01:15 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 12:01:15 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 12:01:15 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 12:01:15 | INFO | P5 | Loaded 6676 current records
+2026-04-09 12:01:15 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 12:01:15 | INFO | P5 | Baseline dataframe shape: (10, 2)
+┌───────────┬─────────────────────┐
+│ DAYTON_MW ┆ Datetime            │
+│ ---       ┆ ---                 │
+│ f64       ┆ datetime[μs]        │
+╞═══════════╪═════════════════════╡
+│ 20.867    ┆ 2022-01-04 00:00:00 │
+│ 21.0      ┆ 2022-01-04 01:00:00 │
+│ 20.867    ┆ 2022-01-04 02:00:00 │
+│ 20.65     ┆ 2022-01-04 03:00:00 │
+│ 20.4      ┆ 2022-01-04 04:00:00 │
+│ 20.1      ┆ 2022-01-04 05:00:00 │
+│ 19.8      ┆ 2022-01-04 06:00:00 │
+│ 19.5      ┆ 2022-01-04 07:00:00 │
+│ 19.4      ┆ 2022-01-04 08:00:00 │
+│ 19.5      ┆ 2022-01-04 09:00:00 │
+└───────────┴─────────────────────┘
+2026-04-09 12:01:15 | INFO | P5 | Calculated summary statistics for reference and current periods
+2026-04-09 12:01:15 | INFO | P5 | Calculated summary differences and drift flags
+2026-04-09 12:05:39 | INFO | P5 | === RUN START ===
+2026-04-09 12:05:39 | INFO | P5 | project=CINTEL
+2026-04-09 12:05:39 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 12:05:39 | INFO | P5 | python=3.14.0
+2026-04-09 12:05:39 | INFO | P5 | os=Windows 11
+2026-04-09 12:05:39 | INFO | P5 | shell=powershell
+2026-04-09 12:05:39 | INFO | P5 | cwd=.
+2026-04-09 12:05:39 | INFO | P5 | github_actions=False
+2026-04-09 12:05:39 | INFO | P5 | ========================
+2026-04-09 12:05:39 | INFO | P5 | START main()
+2026-04-09 12:05:39 | INFO | P5 | ========================
+2026-04-09 12:05:39 | INFO | P5 | ROOT_DIR = .
+2026-04-09 12:05:39 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 12:05:39 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 12:05:39 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 12:05:39 | INFO | P5 | Loaded 6676 current records
+2026-04-09 12:05:39 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 12:05:39 | INFO | P5 | Baseline dataframe shape: (10, 2)
+┌───────────┬─────────────────────┐
+│ DAYTON_MW ┆ Datetime            │
+│ ---       ┆ ---                 │
+│ f64       ┆ datetime[μs]        │
+╞═══════════╪═════════════════════╡
+│ 20.867    ┆ 2022-01-04 00:00:00 │
+│ 21.0      ┆ 2022-01-04 01:00:00 │
+│ 20.867    ┆ 2022-01-04 02:00:00 │
+│ 20.65     ┆ 2022-01-04 03:00:00 │
+│ 20.4      ┆ 2022-01-04 04:00:00 │
+│ 20.1      ┆ 2022-01-04 05:00:00 │
+│ 19.8      ┆ 2022-01-04 06:00:00 │
+│ 19.5      ┆ 2022-01-04 07:00:00 │
+│ 19.4      ┆ 2022-01-04 08:00:00 │
+│ 19.5      ┆ 2022-01-04 09:00:00 │
+└───────────┴─────────────────────┘
+2026-04-09 12:05:39 | INFO | P5 | Calculated summary statistics for reference and current periods
+2026-04-09 12:05:39 | INFO | P5 | Applying drift flag recipes to determine if drift is occurring based on the defined thresholds.
+2026-04-09 12:05:39 | INFO | P5 | Calculated summary differences and drift flags
+2026-04-09 12:06:06 | INFO | P5 | === RUN START ===
+2026-04-09 12:06:06 | INFO | P5 | project=CINTEL
+2026-04-09 12:06:06 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 12:06:06 | INFO | P5 | python=3.14.0
+2026-04-09 12:06:06 | INFO | P5 | os=Windows 11
+2026-04-09 12:06:06 | INFO | P5 | shell=powershell
+2026-04-09 12:06:06 | INFO | P5 | cwd=.
+2026-04-09 12:06:06 | INFO | P5 | github_actions=False
+2026-04-09 12:06:06 | INFO | P5 | ========================
+2026-04-09 12:06:06 | INFO | P5 | START main()
+2026-04-09 12:06:06 | INFO | P5 | ========================
+2026-04-09 12:06:06 | INFO | P5 | ROOT_DIR = .
+2026-04-09 12:06:06 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 12:06:06 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 12:06:06 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 12:06:06 | INFO | P5 | Loaded 6676 current records
+2026-04-09 12:06:06 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 12:06:06 | INFO | P5 | Baseline dataframe shape: (10, 2)
+┌───────────┬─────────────────────┐
+│ DAYTON_MW ┆ Datetime            │
+│ ---       ┆ ---                 │
+│ f64       ┆ datetime[μs]        │
+╞═══════════╪═════════════════════╡
+│ 20.867    ┆ 2022-01-04 00:00:00 │
+│ 21.0      ┆ 2022-01-04 01:00:00 │
+│ 20.867    ┆ 2022-01-04 02:00:00 │
+│ 20.65     ┆ 2022-01-04 03:00:00 │
+│ 20.4      ┆ 2022-01-04 04:00:00 │
+│ 20.1      ┆ 2022-01-04 05:00:00 │
+│ 19.8      ┆ 2022-01-04 06:00:00 │
+│ 19.5      ┆ 2022-01-04 07:00:00 │
+│ 19.4      ┆ 2022-01-04 08:00:00 │
+│ 19.5      ┆ 2022-01-04 09:00:00 │
+└───────────┴─────────────────────┘
+2026-04-09 12:06:06 | INFO | P5 | Calculated summary statistics for reference and current periods
+2026-04-09 12:06:06 | INFO | P5 | Applying drift flag recipes to determine if drift is occurring based on the defined thresholds.
+2026-04-09 12:06:06 | INFO | P5 | Calculated summary differences and drift flags
+2026-04-09 12:06:07 | INFO | P5 | Saved temperature trends plot: temperature_trends_alex.png
+2026-04-09 12:06:07 | INFO | P5 | Wrote drift summary file: C:\Repos\cintel-05-drift-detection\artifacts\drift_summary_alex.csv
+2026-04-09 12:06:07 | INFO | P5 | Drift summary dataframe:
+2026-04-09 12:06:07 | INFO | P5 | shape: (6_676, 8)
+┌───────────┬───────────────┬──────────────────┬────────────────────┬──────────────────────┬──────────────────────┬─────────────────────┬─────────────────────┐
+│ DAYTON_MW ┆ Datetime      ┆ current_avg_temp ┆ current_sigma_temp ┆ temperature_mean_dif ┆ temperature_sigma_di ┆ temperature_is_drif ┆ temperature_sigma_i │
+│ ---       ┆ ---           ┆ ---              ┆ ---                ┆ ference              ┆ fference             ┆ ting_flag           ┆ s_drifting_…        │
+│ f64       ┆ datetime[μs]  ┆ f64              ┆ f64                ┆ ---                  ┆ ---                  ┆ ---                 ┆ ---                 │
+│           ┆               ┆                  ┆                    ┆ f64                  ┆ f64                  ┆ bool                ┆ bool                │
+╞═══════════╪═══════════════╪══════════════════╪════════════════════╪══════════════════════╪══════════════════════╪═════════════════════╪═════════════════════╡
+│ 20.867    ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 00:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 21.0      ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 01:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 20.867    ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 02:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 20.65     ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 03:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 20.4      ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 04:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ …         ┆ …             ┆ …                ┆ …                  ┆ …                    ┆ …                    ┆ …                   ┆ …                   │
+│ 27.35     ┆ 2022-10-08    ┆ 27.849           ┆ 1.126              ┆ 7.64                 ┆ 0.5                  ┆ true                ┆ false               │
+│           ┆ 23:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 26.8      ┆ 2022-10-09    ┆ 27.943           ┆ 0.972              ┆ 7.73                 ┆ 0.34                 ┆ true                ┆ false               │
+│           ┆ 00:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 26.45     ┆ 2022-10-09    ┆ 27.942           ┆ 0.974              ┆ 7.73                 ┆ 0.34                 ┆ true                ┆ false               │
+│           ┆ 01:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 25.9      ┆ 2022-10-09    ┆ 27.808           ┆ 1.156              ┆ 7.6                  ┆ 0.53                 ┆ true                ┆ false               │
+│           ┆ 02:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 25.567    ┆ 2022-10-09    ┆ 27.572           ┆ 1.353              ┆ 7.36                 ┆ 0.72                 ┆ true                ┆ false               │
+│           ┆ 03:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+└───────────┴───────────────┴──────────────────┴────────────────────┴──────────────────────┴──────────────────────┴─────────────────────┴─────────────────────┘
+2026-04-09 12:06:07 | INFO | P5 | Let's make that a bit nicer to read...
+2026-04-09 12:06:07 | INFO | P5 | All remaining steps are about creating a nicer display.
+2026-04-09 12:06:07 | INFO | P5 | ========================
+2026-04-09 12:06:07 | INFO | P5 | Drift Detection Process: 
+2026-04-09 12:06:07 | INFO | P5 | ========================
+2026-04-09 12:06:07 | INFO | P5 | 1. Summarize each period with means.
+2026-04-09 12:06:07 | INFO | P5 | 2. Compute difference of means.
+2026-04-09 12:06:07 | INFO | P5 | 3. Flag drift if absolute difference of means exceeds a threshold.
+2026-04-09 12:06:07 | INFO | P5 | ========================
+2026-04-09 12:06:07 | INFO | P5 | Drift summary (one field per line):
+2026-04-09 12:06:07 | INFO | P5 | DAYTON_MW: 20.867
+2026-04-09 12:06:07 | INFO | P5 | Datetime: 2022-01-04 00:00:00
+2026-04-09 12:06:07 | INFO | P5 | current_avg_temp: None
+2026-04-09 12:06:07 | INFO | P5 | current_sigma_temp: None
+2026-04-09 12:06:07 | INFO | P5 | temperature_mean_difference: None
+2026-04-09 12:06:07 | INFO | P5 | temperature_sigma_difference: None
+2026-04-09 12:06:07 | INFO | P5 | temperature_is_drifting_flag: None
+2026-04-09 12:06:07 | INFO | P5 | temperature_sigma_is_drifting_flag: None
+2026-04-09 12:06:07 | INFO | P5 | Wrote long summary file: C:\Repos\cintel-05-drift-detection\artifacts\drift_summary_long_alex.csv
+2026-04-09 12:06:07 | INFO | P5 | ========================
+2026-04-09 12:06:07 | INFO | P5 | Pipeline executed successfully!
+2026-04-09 12:06:07 | INFO | P5 | ========================
+2026-04-09 12:06:07 | INFO | P5 | END main()
+2026-04-09 12:08:33 | INFO | P5 | === RUN START ===
+2026-04-09 12:08:33 | INFO | P5 | project=CINTEL
+2026-04-09 12:08:33 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 12:08:33 | INFO | P5 | python=3.14.0
+2026-04-09 12:08:33 | INFO | P5 | os=Windows 11
+2026-04-09 12:08:33 | INFO | P5 | shell=powershell
+2026-04-09 12:08:33 | INFO | P5 | cwd=.
+2026-04-09 12:08:33 | INFO | P5 | github_actions=False
+2026-04-09 12:08:33 | INFO | P5 | ========================
+2026-04-09 12:08:33 | INFO | P5 | START main()
+2026-04-09 12:08:33 | INFO | P5 | ========================
+2026-04-09 12:08:33 | INFO | P5 | ROOT_DIR = .
+2026-04-09 12:08:33 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 12:08:33 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 12:08:33 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 12:08:33 | INFO | P5 | Loaded 6676 current records
+2026-04-09 12:08:33 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 12:08:56 | INFO | P5 | === RUN START ===
+2026-04-09 12:08:56 | INFO | P5 | project=CINTEL
+2026-04-09 12:08:56 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 12:08:56 | INFO | P5 | python=3.14.0
+2026-04-09 12:08:56 | INFO | P5 | os=Windows 11
+2026-04-09 12:08:56 | INFO | P5 | shell=powershell
+2026-04-09 12:08:56 | INFO | P5 | cwd=.
+2026-04-09 12:08:56 | INFO | P5 | github_actions=False
+2026-04-09 12:08:56 | INFO | P5 | ========================
+2026-04-09 12:08:56 | INFO | P5 | START main()
+2026-04-09 12:08:56 | INFO | P5 | ========================
+2026-04-09 12:08:56 | INFO | P5 | ROOT_DIR = .
+2026-04-09 12:08:56 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 12:08:56 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 12:08:56 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 12:08:56 | INFO | P5 | Loaded 6676 current records
+2026-04-09 12:08:56 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 12:08:56 | INFO | P5 | Baseline dataframe shape: (24, 2)
+┌───────────┬─────────────────────┐
+│ DAYTON_MW ┆ Datetime            │
+│ ---       ┆ ---                 │
+│ f64       ┆ datetime[μs]        │
+╞═══════════╪═════════════════════╡
+│ 20.867    ┆ 2022-01-04 00:00:00 │
+│ 21.0      ┆ 2022-01-04 01:00:00 │
+│ 20.867    ┆ 2022-01-04 02:00:00 │
+│ 20.65     ┆ 2022-01-04 03:00:00 │
+│ 20.4      ┆ 2022-01-04 04:00:00 │
+│ …         ┆ …                   │
+│ 23.133    ┆ 2022-01-04 19:00:00 │
+│ 23.1      ┆ 2022-01-04 20:00:00 │
+│ 22.7      ┆ 2022-01-04 21:00:00 │
+│ 22.3      ┆ 2022-01-04 22:00:00 │
+│ 21.8      ┆ 2022-01-04 23:00:00 │
+└───────────┴─────────────────────┘
+2026-04-09 12:08:56 | INFO | P5 | Calculated summary statistics for reference and current periods
+2026-04-09 12:08:56 | INFO | P5 | Applying drift flag recipes to determine if drift is occurring based on the defined thresholds.
+2026-04-09 12:08:56 | INFO | P5 | Calculated summary differences and drift flags
+2026-04-09 12:08:57 | INFO | P5 | Saved temperature trends plot: temperature_trends_alex.png
+2026-04-09 12:08:57 | INFO | P5 | Wrote drift summary file: C:\Repos\cintel-05-drift-detection\artifacts\drift_summary_alex.csv
+2026-04-09 12:08:57 | INFO | P5 | Drift summary dataframe:
+2026-04-09 12:08:57 | INFO | P5 | shape: (6_676, 8)
+┌───────────┬───────────────┬──────────────────┬────────────────────┬──────────────────────┬──────────────────────┬─────────────────────┬─────────────────────┐
+│ DAYTON_MW ┆ Datetime      ┆ current_avg_temp ┆ current_sigma_temp ┆ temperature_mean_dif ┆ temperature_sigma_di ┆ temperature_is_drif ┆ temperature_sigma_i │
+│ ---       ┆ ---           ┆ ---              ┆ ---                ┆ ference              ┆ fference             ┆ ting_flag           ┆ s_drifting_…        │
+│ f64       ┆ datetime[μs]  ┆ f64              ┆ f64                ┆ ---                  ┆ ---                  ┆ ---                 ┆ ---                 │
+│           ┆               ┆                  ┆                    ┆ f64                  ┆ f64                  ┆ bool                ┆ bool                │
+╞═══════════╪═══════════════╪══════════════════╪════════════════════╪══════════════════════╪══════════════════════╪═════════════════════╪═════════════════════╡
+│ 20.867    ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 00:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 21.0      ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 01:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 20.867    ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 02:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 20.65     ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 03:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 20.4      ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 04:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ …         ┆ …             ┆ …                ┆ …                  ┆ …                    ┆ …                    ┆ …                   ┆ …                   │
+│ 27.35     ┆ 2022-10-08    ┆ 26.624           ┆ 1.306              ┆ 5.56                 ┆ -1.22                ┆ true                ┆ false               │
+│           ┆ 23:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 26.8      ┆ 2022-10-09    ┆ 26.62            ┆ 1.305              ┆ 5.56                 ┆ -1.22                ┆ true                ┆ false               │
+│           ┆ 00:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 26.45     ┆ 2022-10-09    ┆ 26.625           ┆ 1.304              ┆ 5.56                 ┆ -1.22                ┆ true                ┆ false               │
+│           ┆ 01:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 25.9      ┆ 2022-10-09    ┆ 26.633           ┆ 1.299              ┆ 5.57                 ┆ -1.23                ┆ true                ┆ false               │
+│           ┆ 02:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 25.567    ┆ 2022-10-09    ┆ 26.642           ┆ 1.29               ┆ 5.58                 ┆ -1.24                ┆ true                ┆ false               │
+│           ┆ 03:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+└───────────┴───────────────┴──────────────────┴────────────────────┴──────────────────────┴──────────────────────┴─────────────────────┴─────────────────────┘
+2026-04-09 12:08:57 | INFO | P5 | Let's make that a bit nicer to read...
+2026-04-09 12:08:57 | INFO | P5 | All remaining steps are about creating a nicer display.
+2026-04-09 12:08:57 | INFO | P5 | ========================
+2026-04-09 12:08:57 | INFO | P5 | Drift Detection Process: 
+2026-04-09 12:08:57 | INFO | P5 | ========================
+2026-04-09 12:08:57 | INFO | P5 | 1. Summarize each period with means.
+2026-04-09 12:08:57 | INFO | P5 | 2. Compute difference of means.
+2026-04-09 12:08:57 | INFO | P5 | 3. Flag drift if absolute difference of means exceeds a threshold.
+2026-04-09 12:08:57 | INFO | P5 | ========================
+2026-04-09 12:08:57 | INFO | P5 | Drift summary (one field per line):
+2026-04-09 12:08:57 | INFO | P5 | DAYTON_MW: 20.867
+2026-04-09 12:08:57 | INFO | P5 | Datetime: 2022-01-04 00:00:00
+2026-04-09 12:08:57 | INFO | P5 | current_avg_temp: None
+2026-04-09 12:08:57 | INFO | P5 | current_sigma_temp: None
+2026-04-09 12:08:57 | INFO | P5 | temperature_mean_difference: None
+2026-04-09 12:08:57 | INFO | P5 | temperature_sigma_difference: None
+2026-04-09 12:08:57 | INFO | P5 | temperature_is_drifting_flag: None
+2026-04-09 12:08:57 | INFO | P5 | temperature_sigma_is_drifting_flag: None
+2026-04-09 12:08:57 | INFO | P5 | Wrote long summary file: C:\Repos\cintel-05-drift-detection\artifacts\drift_summary_long_alex.csv
+2026-04-09 12:08:57 | INFO | P5 | ========================
+2026-04-09 12:08:57 | INFO | P5 | Pipeline executed successfully!
+2026-04-09 12:08:57 | INFO | P5 | ========================
+2026-04-09 12:08:57 | INFO | P5 | END main()
+2026-04-09 12:09:50 | INFO | P5 | === RUN START ===
+2026-04-09 12:09:50 | INFO | P5 | project=CINTEL
+2026-04-09 12:09:50 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 12:09:50 | INFO | P5 | python=3.14.0
+2026-04-09 12:09:50 | INFO | P5 | os=Windows 11
+2026-04-09 12:09:50 | INFO | P5 | shell=powershell
+2026-04-09 12:09:50 | INFO | P5 | cwd=.
+2026-04-09 12:09:50 | INFO | P5 | github_actions=False
+2026-04-09 12:09:50 | INFO | P5 | ========================
+2026-04-09 12:09:50 | INFO | P5 | START main()
+2026-04-09 12:09:50 | INFO | P5 | ========================
+2026-04-09 12:09:50 | INFO | P5 | ROOT_DIR = .
+2026-04-09 12:09:50 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 12:09:50 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 12:09:50 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 12:09:50 | INFO | P5 | Loaded 6676 current records
+2026-04-09 12:09:50 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 12:09:50 | INFO | P5 | Baseline dataframe shape: (100, 2)
+┌───────────┬─────────────────────┐
+│ DAYTON_MW ┆ Datetime            │
+│ ---       ┆ ---                 │
+│ f64       ┆ datetime[μs]        │
+╞═══════════╪═════════════════════╡
+│ 20.867    ┆ 2022-01-04 00:00:00 │
+│ 21.0      ┆ 2022-01-04 01:00:00 │
+│ 20.867    ┆ 2022-01-04 02:00:00 │
+│ 20.65     ┆ 2022-01-04 03:00:00 │
+│ 20.4      ┆ 2022-01-04 04:00:00 │
+│ …         ┆ …                   │
+│ 26.2      ┆ 2022-01-07 23:00:00 │
+│ 26.75     ┆ 2022-01-08 00:00:00 │
+│ 25.867    ┆ 2022-01-08 01:00:00 │
+│ 24.767    ┆ 2022-01-08 02:00:00 │
+│ 23.95     ┆ 2022-01-08 03:00:00 │
+└───────────┴─────────────────────┘
+2026-04-09 12:09:50 | INFO | P5 | Calculated summary statistics for reference and current periods
+2026-04-09 12:09:50 | INFO | P5 | Applying drift flag recipes to determine if drift is occurring based on the defined thresholds.
+2026-04-09 12:09:50 | INFO | P5 | Calculated summary differences and drift flags
+2026-04-09 12:09:51 | INFO | P5 | Saved temperature trends plot: temperature_trends_alex.png
+2026-04-09 12:09:51 | INFO | P5 | Wrote drift summary file: C:\Repos\cintel-05-drift-detection\artifacts\drift_summary_alex.csv
+2026-04-09 12:09:51 | INFO | P5 | Drift summary dataframe:
+2026-04-09 12:09:51 | INFO | P5 | shape: (6_676, 8)
+┌───────────┬───────────────┬──────────────────┬────────────────────┬──────────────────────┬──────────────────────┬─────────────────────┬─────────────────────┐
+│ DAYTON_MW ┆ Datetime      ┆ current_avg_temp ┆ current_sigma_temp ┆ temperature_mean_dif ┆ temperature_sigma_di ┆ temperature_is_drif ┆ temperature_sigma_i │
+│ ---       ┆ ---           ┆ ---              ┆ ---                ┆ ference              ┆ fference             ┆ ting_flag           ┆ s_drifting_…        │
+│ f64       ┆ datetime[μs]  ┆ f64              ┆ f64                ┆ ---                  ┆ ---                  ┆ ---                 ┆ ---                 │
+│           ┆               ┆                  ┆                    ┆ f64                  ┆ f64                  ┆ bool                ┆ bool                │
+╞═══════════╪═══════════════╪══════════════════╪════════════════════╪══════════════════════╪══════════════════════╪═════════════════════╪═════════════════════╡
+│ 20.867    ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 00:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 21.0      ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 01:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 20.867    ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 02:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 20.65     ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 03:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 20.4      ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 04:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ …         ┆ …             ┆ …                ┆ …                  ┆ …                    ┆ …                    ┆ …                   ┆ …                   │
+│ 27.35     ┆ 2022-10-08    ┆ 26.118           ┆ 1.093              ┆ 7.93                 ┆ -4.67                ┆ true                ┆ true                │
+│           ┆ 23:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 26.8      ┆ 2022-10-09    ┆ 26.122           ┆ 1.094              ┆ 7.93                 ┆ -4.67                ┆ true                ┆ true                │
+│           ┆ 00:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 26.45     ┆ 2022-10-09    ┆ 26.121           ┆ 1.094              ┆ 7.93                 ┆ -4.67                ┆ true                ┆ true                │
+│           ┆ 01:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 25.9      ┆ 2022-10-09    ┆ 26.117           ┆ 1.094              ┆ 7.93                 ┆ -4.67                ┆ true                ┆ true                │
+│           ┆ 02:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 25.567    ┆ 2022-10-09    ┆ 26.113           ┆ 1.095              ┆ 7.92                 ┆ -4.66                ┆ true                ┆ true                │
+│           ┆ 03:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+└───────────┴───────────────┴──────────────────┴────────────────────┴──────────────────────┴──────────────────────┴─────────────────────┴─────────────────────┘
+2026-04-09 12:09:51 | INFO | P5 | Let's make that a bit nicer to read...
+2026-04-09 12:09:51 | INFO | P5 | All remaining steps are about creating a nicer display.
+2026-04-09 12:09:51 | INFO | P5 | ========================
+2026-04-09 12:09:51 | INFO | P5 | Drift Detection Process: 
+2026-04-09 12:09:51 | INFO | P5 | ========================
+2026-04-09 12:09:51 | INFO | P5 | 1. Summarize each period with means.
+2026-04-09 12:09:51 | INFO | P5 | 2. Compute difference of means.
+2026-04-09 12:09:51 | INFO | P5 | 3. Flag drift if absolute difference of means exceeds a threshold.
+2026-04-09 12:09:51 | INFO | P5 | ========================
+2026-04-09 12:09:51 | INFO | P5 | Drift summary (one field per line):
+2026-04-09 12:09:51 | INFO | P5 | DAYTON_MW: 20.867
+2026-04-09 12:09:51 | INFO | P5 | Datetime: 2022-01-04 00:00:00
+2026-04-09 12:09:51 | INFO | P5 | current_avg_temp: None
+2026-04-09 12:09:51 | INFO | P5 | current_sigma_temp: None
+2026-04-09 12:09:51 | INFO | P5 | temperature_mean_difference: None
+2026-04-09 12:09:51 | INFO | P5 | temperature_sigma_difference: None
+2026-04-09 12:09:51 | INFO | P5 | temperature_is_drifting_flag: None
+2026-04-09 12:09:51 | INFO | P5 | temperature_sigma_is_drifting_flag: None
+2026-04-09 12:09:51 | INFO | P5 | Wrote long summary file: C:\Repos\cintel-05-drift-detection\artifacts\drift_summary_long_alex.csv
+2026-04-09 12:09:51 | INFO | P5 | ========================
+2026-04-09 12:09:51 | INFO | P5 | Pipeline executed successfully!
+2026-04-09 12:09:51 | INFO | P5 | ========================
+2026-04-09 12:09:51 | INFO | P5 | END main()
+2026-04-09 12:14:27 | INFO | P5 | === RUN START ===
+2026-04-09 12:14:27 | INFO | P5 | project=CINTEL
+2026-04-09 12:14:27 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 12:14:27 | INFO | P5 | python=3.14.0
+2026-04-09 12:14:27 | INFO | P5 | os=Windows 11
+2026-04-09 12:14:27 | INFO | P5 | shell=powershell
+2026-04-09 12:14:27 | INFO | P5 | cwd=.
+2026-04-09 12:14:27 | INFO | P5 | github_actions=False
+2026-04-09 12:14:27 | INFO | P5 | ========================
+2026-04-09 12:14:27 | INFO | P5 | START main()
+2026-04-09 12:14:27 | INFO | P5 | ========================
+2026-04-09 12:14:27 | INFO | P5 | ROOT_DIR = .
+2026-04-09 12:14:27 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 12:14:27 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 12:14:27 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 12:14:27 | INFO | P5 | Loaded 6676 current records
+2026-04-09 12:14:27 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 12:14:27 | INFO | P5 | Baseline dataframe shape: (100, 2)
+┌───────────┬─────────────────────┐
+│ DAYTON_MW ┆ Datetime            │
+│ ---       ┆ ---                 │
+│ f64       ┆ datetime[μs]        │
+╞═══════════╪═════════════════════╡
+│ 20.867    ┆ 2022-01-04 00:00:00 │
+│ 21.0      ┆ 2022-01-04 01:00:00 │
+│ 20.867    ┆ 2022-01-04 02:00:00 │
+│ 20.65     ┆ 2022-01-04 03:00:00 │
+│ 20.4      ┆ 2022-01-04 04:00:00 │
+│ …         ┆ …                   │
+│ 26.2      ┆ 2022-01-07 23:00:00 │
+│ 26.75     ┆ 2022-01-08 00:00:00 │
+│ 25.867    ┆ 2022-01-08 01:00:00 │
+│ 24.767    ┆ 2022-01-08 02:00:00 │
+│ 23.95     ┆ 2022-01-08 03:00:00 │
+└───────────┴─────────────────────┘
+2026-04-09 12:14:27 | INFO | P5 | Calculated summary statistics for reference and current periods
+2026-04-09 12:14:27 | INFO | P5 | Applying drift flag recipes to determine if drift is occurring based on the defined thresholds.
+2026-04-09 12:14:27 | INFO | P5 | Calculated summary differences and drift flags
+2026-04-09 12:14:28 | INFO | P5 | Saved temperature trends plot: temperature_trends_alex.png
+2026-04-09 12:14:28 | INFO | P5 | Wrote drift summary file: C:\Repos\cintel-05-drift-detection\artifacts\drift_summary_alex.csv
+2026-04-09 12:14:28 | INFO | P5 | Drift summary dataframe:
+2026-04-09 12:14:28 | INFO | P5 | shape: (6_676, 8)
+┌───────────┬───────────────┬──────────────────┬────────────────────┬──────────────────────┬──────────────────────┬─────────────────────┬─────────────────────┐
+│ DAYTON_MW ┆ Datetime      ┆ current_avg_temp ┆ current_sigma_temp ┆ temperature_mean_dif ┆ temperature_sigma_di ┆ temperature_is_drif ┆ temperature_sigma_i │
+│ ---       ┆ ---           ┆ ---              ┆ ---                ┆ ference              ┆ fference             ┆ ting_flag           ┆ s_drifting_…        │
+│ f64       ┆ datetime[μs]  ┆ f64              ┆ f64                ┆ ---                  ┆ ---                  ┆ ---                 ┆ ---                 │
+│           ┆               ┆                  ┆                    ┆ f64                  ┆ f64                  ┆ bool                ┆ bool                │
+╞═══════════╪═══════════════╪══════════════════╪════════════════════╪══════════════════════╪══════════════════════╪═════════════════════╪═════════════════════╡
+│ 20.867    ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 00:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 21.0      ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 01:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 20.867    ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 02:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 20.65     ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 03:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 20.4      ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 04:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ …         ┆ …             ┆ …                ┆ …                  ┆ …                    ┆ …                    ┆ …                   ┆ …                   │
+│ 27.35     ┆ 2022-10-08    ┆ 26.118           ┆ 1.093              ┆ 7.93                 ┆ -4.67                ┆ true                ┆ true                │
+│           ┆ 23:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 26.8      ┆ 2022-10-09    ┆ 26.122           ┆ 1.094              ┆ 7.93                 ┆ -4.67                ┆ true                ┆ true                │
+│           ┆ 00:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 26.45     ┆ 2022-10-09    ┆ 26.121           ┆ 1.094              ┆ 7.93                 ┆ -4.67                ┆ true                ┆ true                │
+│           ┆ 01:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 25.9      ┆ 2022-10-09    ┆ 26.117           ┆ 1.094              ┆ 7.93                 ┆ -4.67                ┆ true                ┆ true                │
+│           ┆ 02:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 25.567    ┆ 2022-10-09    ┆ 26.113           ┆ 1.095              ┆ 7.92                 ┆ -4.66                ┆ true                ┆ true                │
+│           ┆ 03:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+└───────────┴───────────────┴──────────────────┴────────────────────┴──────────────────────┴──────────────────────┴─────────────────────┴─────────────────────┘
+2026-04-09 12:14:28 | INFO | P5 | Let's make that a bit nicer to read...
+2026-04-09 12:14:28 | INFO | P5 | All remaining steps are about creating a nicer display.
+2026-04-09 12:14:28 | INFO | P5 | ========================
+2026-04-09 12:14:28 | INFO | P5 | Drift Detection Process: 
+2026-04-09 12:14:28 | INFO | P5 | ========================
+2026-04-09 12:14:28 | INFO | P5 | 1. Summarize each period with means.
+2026-04-09 12:14:28 | INFO | P5 | 2. Compute difference of means.
+2026-04-09 12:14:28 | INFO | P5 | 3. Flag drift if absolute difference of means exceeds a threshold.
+2026-04-09 12:14:28 | INFO | P5 | ========================
+2026-04-09 12:14:28 | INFO | P5 | Drift summary (one field per line):
+2026-04-09 12:14:28 | INFO | P5 | DAYTON_MW: 20.867
+2026-04-09 12:14:28 | INFO | P5 | Datetime: 2022-01-04 00:00:00
+2026-04-09 12:14:28 | INFO | P5 | current_avg_temp: None
+2026-04-09 12:14:28 | INFO | P5 | current_sigma_temp: None
+2026-04-09 12:14:28 | INFO | P5 | temperature_mean_difference: None
+2026-04-09 12:14:28 | INFO | P5 | temperature_sigma_difference: None
+2026-04-09 12:14:28 | INFO | P5 | temperature_is_drifting_flag: None
+2026-04-09 12:14:28 | INFO | P5 | temperature_sigma_is_drifting_flag: None
+2026-04-09 12:14:28 | INFO | P5 | Wrote long summary file: C:\Repos\cintel-05-drift-detection\artifacts\drift_summary_long_alex.csv
+2026-04-09 12:14:28 | INFO | P5 | ========================
+2026-04-09 12:14:28 | INFO | P5 | Pipeline executed successfully!
+2026-04-09 12:14:28 | INFO | P5 | ========================
+2026-04-09 12:14:28 | INFO | P5 | END main()
+2026-04-09 12:16:42 | INFO | P5 | === RUN START ===
+2026-04-09 12:16:42 | INFO | P5 | project=CINTEL
+2026-04-09 12:16:42 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 12:16:42 | INFO | P5 | python=3.14.0
+2026-04-09 12:16:42 | INFO | P5 | os=Windows 11
+2026-04-09 12:16:42 | INFO | P5 | shell=powershell
+2026-04-09 12:16:42 | INFO | P5 | cwd=.
+2026-04-09 12:16:42 | INFO | P5 | github_actions=False
+2026-04-09 12:16:42 | INFO | P5 | ========================
+2026-04-09 12:16:42 | INFO | P5 | START main()
+2026-04-09 12:16:42 | INFO | P5 | ========================
+2026-04-09 12:16:42 | INFO | P5 | ROOT_DIR = .
+2026-04-09 12:16:42 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 12:16:42 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 12:16:42 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 12:16:42 | INFO | P5 | Loaded 6676 current records
+2026-04-09 12:16:42 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 12:16:42 | INFO | P5 | Baseline dataframe shape: (100, 2)
+┌───────────┬─────────────────────┐
+│ DAYTON_MW ┆ Datetime            │
+│ ---       ┆ ---                 │
+│ f64       ┆ datetime[μs]        │
+╞═══════════╪═════════════════════╡
+│ 20.867    ┆ 2022-01-04 00:00:00 │
+│ 21.0      ┆ 2022-01-04 01:00:00 │
+│ 20.867    ┆ 2022-01-04 02:00:00 │
+│ 20.65     ┆ 2022-01-04 03:00:00 │
+│ 20.4      ┆ 2022-01-04 04:00:00 │
+│ …         ┆ …                   │
+│ 26.2      ┆ 2022-01-07 23:00:00 │
+│ 26.75     ┆ 2022-01-08 00:00:00 │
+│ 25.867    ┆ 2022-01-08 01:00:00 │
+│ 24.767    ┆ 2022-01-08 02:00:00 │
+│ 23.95     ┆ 2022-01-08 03:00:00 │
+└───────────┴─────────────────────┘
+2026-04-09 12:16:42 | INFO | P5 | Calculated summary statistics for reference and current periods
+2026-04-09 12:16:42 | INFO | P5 | Applying drift flag recipes to determine if drift is occurring based on the defined thresholds.
+2026-04-09 12:16:42 | INFO | P5 | Calculated summary differences and drift flags
+2026-04-09 12:17:01 | INFO | P5 | === RUN START ===
+2026-04-09 12:17:01 | INFO | P5 | project=CINTEL
+2026-04-09 12:17:01 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 12:17:01 | INFO | P5 | python=3.14.0
+2026-04-09 12:17:01 | INFO | P5 | os=Windows 11
+2026-04-09 12:17:01 | INFO | P5 | shell=powershell
+2026-04-09 12:17:01 | INFO | P5 | cwd=.
+2026-04-09 12:17:01 | INFO | P5 | github_actions=False
+2026-04-09 12:17:01 | INFO | P5 | ========================
+2026-04-09 12:17:01 | INFO | P5 | START main()
+2026-04-09 12:17:01 | INFO | P5 | ========================
+2026-04-09 12:17:01 | INFO | P5 | ROOT_DIR = .
+2026-04-09 12:17:01 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 12:17:01 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 12:17:02 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 12:17:02 | INFO | P5 | Loaded 6676 current records
+2026-04-09 12:17:02 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 12:17:02 | INFO | P5 | Baseline dataframe shape: (100, 2)
+┌───────────┬─────────────────────┐
+│ DAYTON_MW ┆ Datetime            │
+│ ---       ┆ ---                 │
+│ f64       ┆ datetime[μs]        │
+╞═══════════╪═════════════════════╡
+│ 20.867    ┆ 2022-01-04 00:00:00 │
+│ 21.0      ┆ 2022-01-04 01:00:00 │
+│ 20.867    ┆ 2022-01-04 02:00:00 │
+│ 20.65     ┆ 2022-01-04 03:00:00 │
+│ 20.4      ┆ 2022-01-04 04:00:00 │
+│ …         ┆ …                   │
+│ 26.2      ┆ 2022-01-07 23:00:00 │
+│ 26.75     ┆ 2022-01-08 00:00:00 │
+│ 25.867    ┆ 2022-01-08 01:00:00 │
+│ 24.767    ┆ 2022-01-08 02:00:00 │
+│ 23.95     ┆ 2022-01-08 03:00:00 │
+└───────────┴─────────────────────┘
+2026-04-09 12:17:02 | INFO | P5 | Calculated summary statistics for reference and current periods
+2026-04-09 12:17:02 | INFO | P5 | Applying drift flag recipes to determine if drift is occurring based on the defined thresholds.
+2026-04-09 12:17:02 | INFO | P5 | Calculated summary differences and drift flags
+2026-04-09 12:17:03 | INFO | P5 | Saved temperature trends plot: temperature_trends_alex.png
+2026-04-09 12:17:03 | INFO | P5 | Wrote drift summary file: C:\Repos\cintel-05-drift-detection\artifacts\drift_summary_alex.csv
+2026-04-09 12:17:03 | INFO | P5 | Drift summary dataframe:
+2026-04-09 12:17:03 | INFO | P5 | shape: (6_676, 8)
+┌───────────┬───────────────┬──────────────────┬────────────────────┬──────────────────────┬──────────────────────┬─────────────────────┬─────────────────────┐
+│ DAYTON_MW ┆ Datetime      ┆ current_avg_temp ┆ current_sigma_temp ┆ temperature_mean_dif ┆ temperature_sigma_di ┆ temperature_is_drif ┆ temperature_sigma_i │
+│ ---       ┆ ---           ┆ ---              ┆ ---                ┆ ference              ┆ fference             ┆ ting_flag           ┆ s_drifting_…        │
+│ f64       ┆ datetime[μs]  ┆ f64              ┆ f64                ┆ ---                  ┆ ---                  ┆ ---                 ┆ ---                 │
+│           ┆               ┆                  ┆                    ┆ f64                  ┆ f64                  ┆ bool                ┆ bool                │
+╞═══════════╪═══════════════╪══════════════════╪════════════════════╪══════════════════════╪══════════════════════╪═════════════════════╪═════════════════════╡
+│ 20.867    ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 00:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 21.0      ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 01:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 20.867    ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 02:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 20.65     ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 03:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 20.4      ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 04:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ …         ┆ …             ┆ …                ┆ …                  ┆ …                    ┆ …                    ┆ …                   ┆ …                   │
+│ 27.35     ┆ 2022-10-08    ┆ 26.118           ┆ 1.093              ┆ 7.93                 ┆ -4.67                ┆ true                ┆ true                │
+│           ┆ 23:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 26.8      ┆ 2022-10-09    ┆ 26.122           ┆ 1.094              ┆ 7.93                 ┆ -4.67                ┆ true                ┆ true                │
+│           ┆ 00:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 26.45     ┆ 2022-10-09    ┆ 26.121           ┆ 1.094              ┆ 7.93                 ┆ -4.67                ┆ true                ┆ true                │
+│           ┆ 01:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 25.9      ┆ 2022-10-09    ┆ 26.117           ┆ 1.094              ┆ 7.93                 ┆ -4.67                ┆ true                ┆ true                │
+│           ┆ 02:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 25.567    ┆ 2022-10-09    ┆ 26.113           ┆ 1.095              ┆ 7.92                 ┆ -4.66                ┆ true                ┆ true                │
+│           ┆ 03:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+└───────────┴───────────────┴──────────────────┴────────────────────┴──────────────────────┴──────────────────────┴─────────────────────┴─────────────────────┘
+2026-04-09 12:17:03 | INFO | P5 | Let's make that a bit nicer to read...
+2026-04-09 12:17:03 | INFO | P5 | All remaining steps are about creating a nicer display.
+2026-04-09 12:17:03 | INFO | P5 | ========================
+2026-04-09 12:17:03 | INFO | P5 | Drift Detection Process: 
+2026-04-09 12:17:03 | INFO | P5 | ========================
+2026-04-09 12:17:03 | INFO | P5 | 1. Summarize each period with means.
+2026-04-09 12:17:03 | INFO | P5 | 2. Compute difference of means.
+2026-04-09 12:17:03 | INFO | P5 | 3. Flag drift if absolute difference of means exceeds a threshold.
+2026-04-09 12:17:03 | INFO | P5 | ========================
+2026-04-09 12:17:03 | INFO | P5 | Drift summary (one field per line):
+2026-04-09 12:17:03 | INFO | P5 | DAYTON_MW: 20.867
+2026-04-09 12:17:03 | INFO | P5 | Datetime: 2022-01-04 00:00:00
+2026-04-09 12:17:03 | INFO | P5 | current_avg_temp: None
+2026-04-09 12:17:03 | INFO | P5 | current_sigma_temp: None
+2026-04-09 12:17:03 | INFO | P5 | temperature_mean_difference: None
+2026-04-09 12:17:03 | INFO | P5 | temperature_sigma_difference: None
+2026-04-09 12:17:03 | INFO | P5 | temperature_is_drifting_flag: None
+2026-04-09 12:17:03 | INFO | P5 | temperature_sigma_is_drifting_flag: None
+2026-04-09 12:17:03 | INFO | P5 | Wrote long summary file: C:\Repos\cintel-05-drift-detection\artifacts\drift_summary_long_alex.csv
+2026-04-09 12:17:03 | INFO | P5 | ========================
+2026-04-09 12:17:03 | INFO | P5 | Pipeline executed successfully!
+2026-04-09 12:17:03 | INFO | P5 | ========================
+2026-04-09 12:17:03 | INFO | P5 | END main()
+2026-04-09 12:20:06 | INFO | P5 | === RUN START ===
+2026-04-09 12:20:06 | INFO | P5 | project=CINTEL
+2026-04-09 12:20:06 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 12:20:06 | INFO | P5 | python=3.14.0
+2026-04-09 12:20:06 | INFO | P5 | os=Windows 11
+2026-04-09 12:20:06 | INFO | P5 | shell=powershell
+2026-04-09 12:20:06 | INFO | P5 | cwd=.
+2026-04-09 12:20:06 | INFO | P5 | github_actions=False
+2026-04-09 12:20:06 | INFO | P5 | ========================
+2026-04-09 12:20:06 | INFO | P5 | START main()
+2026-04-09 12:20:06 | INFO | P5 | ========================
+2026-04-09 12:20:06 | INFO | P5 | ROOT_DIR = .
+2026-04-09 12:20:06 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 12:20:06 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 12:20:06 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 12:20:06 | INFO | P5 | Loaded 6676 current records
+2026-04-09 12:20:06 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 12:20:06 | INFO | P5 | Baseline dataframe shape: (100, 2)
+┌───────────┬─────────────────────┐
+│ DAYTON_MW ┆ Datetime            │
+│ ---       ┆ ---                 │
+│ f64       ┆ datetime[μs]        │
+╞═══════════╪═════════════════════╡
+│ 20.867    ┆ 2022-01-04 00:00:00 │
+│ 21.0      ┆ 2022-01-04 01:00:00 │
+│ 20.867    ┆ 2022-01-04 02:00:00 │
+│ 20.65     ┆ 2022-01-04 03:00:00 │
+│ 20.4      ┆ 2022-01-04 04:00:00 │
+│ …         ┆ …                   │
+│ 26.2      ┆ 2022-01-07 23:00:00 │
+│ 26.75     ┆ 2022-01-08 00:00:00 │
+│ 25.867    ┆ 2022-01-08 01:00:00 │
+│ 24.767    ┆ 2022-01-08 02:00:00 │
+│ 23.95     ┆ 2022-01-08 03:00:00 │
+└───────────┴─────────────────────┘
+2026-04-09 12:20:06 | INFO | P5 | Calculated summary statistics for reference and current periods
+2026-04-09 12:20:06 | INFO | P5 | Applying drift flag recipes to determine if drift is occurring based on the defined thresholds.
+2026-04-09 12:20:06 | INFO | P5 | Calculated summary differences and drift flags
+2026-04-09 12:20:07 | INFO | P5 | Saved temperature trends plot: temperature_trends_alex.png
+2026-04-09 12:20:07 | INFO | P5 | Wrote drift summary file: C:\Repos\cintel-05-drift-detection\artifacts\drift_summary_alex.csv
+2026-04-09 12:20:07 | INFO | P5 | Drift summary dataframe:
+2026-04-09 12:20:07 | INFO | P5 | shape: (6_676, 8)
+┌───────────┬───────────────┬──────────────────┬────────────────────┬──────────────────────┬──────────────────────┬─────────────────────┬─────────────────────┐
+│ DAYTON_MW ┆ Datetime      ┆ current_avg_temp ┆ current_sigma_temp ┆ temperature_mean_dif ┆ temperature_sigma_di ┆ temperature_is_drif ┆ temperature_sigma_i │
+│ ---       ┆ ---           ┆ ---              ┆ ---                ┆ ference              ┆ fference             ┆ ting_flag           ┆ s_drifting_…        │
+│ f64       ┆ datetime[μs]  ┆ f64              ┆ f64                ┆ ---                  ┆ ---                  ┆ ---                 ┆ ---                 │
+│           ┆               ┆                  ┆                    ┆ f64                  ┆ f64                  ┆ bool                ┆ bool                │
+╞═══════════╪═══════════════╪══════════════════╪════════════════════╪══════════════════════╪══════════════════════╪═════════════════════╪═════════════════════╡
+│ 20.867    ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 00:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 21.0      ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 01:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 20.867    ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 02:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 20.65     ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 03:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 20.4      ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 04:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ …         ┆ …             ┆ …                ┆ …                  ┆ …                    ┆ …                    ┆ …                   ┆ …                   │
+│ 27.35     ┆ 2022-10-08    ┆ 26.118           ┆ 1.093              ┆ 7.93                 ┆ -4.67                ┆ true                ┆ true                │
+│           ┆ 23:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 26.8      ┆ 2022-10-09    ┆ 26.122           ┆ 1.094              ┆ 7.93                 ┆ -4.67                ┆ true                ┆ true                │
+│           ┆ 00:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 26.45     ┆ 2022-10-09    ┆ 26.121           ┆ 1.094              ┆ 7.93                 ┆ -4.67                ┆ true                ┆ true                │
+│           ┆ 01:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 25.9      ┆ 2022-10-09    ┆ 26.117           ┆ 1.094              ┆ 7.93                 ┆ -4.67                ┆ true                ┆ true                │
+│           ┆ 02:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 25.567    ┆ 2022-10-09    ┆ 26.113           ┆ 1.095              ┆ 7.92                 ┆ -4.66                ┆ true                ┆ true                │
+│           ┆ 03:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+└───────────┴───────────────┴──────────────────┴────────────────────┴──────────────────────┴──────────────────────┴─────────────────────┴─────────────────────┘
+2026-04-09 12:20:07 | INFO | P5 | Let's make that a bit nicer to read...
+2026-04-09 12:20:07 | INFO | P5 | All remaining steps are about creating a nicer display.
+2026-04-09 12:20:07 | INFO | P5 | ========================
+2026-04-09 12:20:07 | INFO | P5 | Drift Detection Process: 
+2026-04-09 12:20:07 | INFO | P5 | ========================
+2026-04-09 12:20:07 | INFO | P5 | 1. Summarize each period with means.
+2026-04-09 12:20:07 | INFO | P5 | 2. Compute difference of means.
+2026-04-09 12:20:07 | INFO | P5 | 3. Flag drift if absolute difference of means exceeds a threshold.
+2026-04-09 12:20:07 | INFO | P5 | ========================
+2026-04-09 12:20:07 | INFO | P5 | Drift summary (one field per line):
+2026-04-09 12:20:07 | INFO | P5 | DAYTON_MW: 20.867
+2026-04-09 12:20:07 | INFO | P5 | Datetime: 2022-01-04 00:00:00
+2026-04-09 12:20:07 | INFO | P5 | current_avg_temp: None
+2026-04-09 12:20:07 | INFO | P5 | current_sigma_temp: None
+2026-04-09 12:20:07 | INFO | P5 | temperature_mean_difference: None
+2026-04-09 12:20:07 | INFO | P5 | temperature_sigma_difference: None
+2026-04-09 12:20:07 | INFO | P5 | temperature_is_drifting_flag: None
+2026-04-09 12:20:07 | INFO | P5 | temperature_sigma_is_drifting_flag: None
+2026-04-09 12:20:07 | INFO | P5 | Wrote long summary file: C:\Repos\cintel-05-drift-detection\artifacts\drift_summary_long_alex.csv
+2026-04-09 12:20:07 | INFO | P5 | ========================
+2026-04-09 12:20:07 | INFO | P5 | Pipeline executed successfully!
+2026-04-09 12:20:07 | INFO | P5 | ========================
+2026-04-09 12:20:07 | INFO | P5 | END main()
+2026-04-09 12:23:35 | INFO | P5 | === RUN START ===
+2026-04-09 12:23:35 | INFO | P5 | project=CINTEL
+2026-04-09 12:23:35 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 12:23:35 | INFO | P5 | python=3.14.0
+2026-04-09 12:23:35 | INFO | P5 | os=Windows 11
+2026-04-09 12:23:35 | INFO | P5 | shell=powershell
+2026-04-09 12:23:35 | INFO | P5 | cwd=.
+2026-04-09 12:23:35 | INFO | P5 | github_actions=False
+2026-04-09 12:23:35 | INFO | P5 | ========================
+2026-04-09 12:23:35 | INFO | P5 | START main()
+2026-04-09 12:23:35 | INFO | P5 | ========================
+2026-04-09 12:23:35 | INFO | P5 | ROOT_DIR = .
+2026-04-09 12:23:35 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 12:23:35 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 12:23:35 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 12:23:35 | INFO | P5 | Loaded 6676 current records
+2026-04-09 12:23:35 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 12:23:35 | INFO | P5 | Baseline dataframe shape: (100, 2)
+┌───────────┬─────────────────────┐
+│ DAYTON_MW ┆ Datetime            │
+│ ---       ┆ ---                 │
+│ f64       ┆ datetime[μs]        │
+╞═══════════╪═════════════════════╡
+│ 20.867    ┆ 2022-01-04 00:00:00 │
+│ 21.0      ┆ 2022-01-04 01:00:00 │
+│ 20.867    ┆ 2022-01-04 02:00:00 │
+│ 20.65     ┆ 2022-01-04 03:00:00 │
+│ 20.4      ┆ 2022-01-04 04:00:00 │
+│ …         ┆ …                   │
+│ 26.2      ┆ 2022-01-07 23:00:00 │
+│ 26.75     ┆ 2022-01-08 00:00:00 │
+│ 25.867    ┆ 2022-01-08 01:00:00 │
+│ 24.767    ┆ 2022-01-08 02:00:00 │
+│ 23.95     ┆ 2022-01-08 03:00:00 │
+└───────────┴─────────────────────┘
+2026-04-09 12:23:35 | INFO | P5 | Calculated summary statistics for reference and current periods
+2026-04-09 12:23:35 | INFO | P5 | Applying drift flag recipes to determine if drift is occurring based on the defined thresholds.
+2026-04-09 12:23:35 | INFO | P5 | Calculated summary differences and drift flags
+2026-04-09 12:23:36 | INFO | P5 | Saved temperature trends plot: temperature_trends_alex.png
+2026-04-09 12:23:36 | INFO | P5 | Wrote drift summary file: C:\Repos\cintel-05-drift-detection\artifacts\drift_summary_alex.csv
+2026-04-09 12:23:36 | INFO | P5 | Drift summary dataframe:
+2026-04-09 12:23:36 | INFO | P5 | shape: (6_676, 8)
+┌───────────┬───────────────┬──────────────────┬────────────────────┬──────────────────────┬──────────────────────┬─────────────────────┬─────────────────────┐
+│ DAYTON_MW ┆ Datetime      ┆ current_avg_temp ┆ current_sigma_temp ┆ temperature_mean_dif ┆ temperature_sigma_di ┆ temperature_is_drif ┆ temperature_sigma_i │
+│ ---       ┆ ---           ┆ ---              ┆ ---                ┆ ference              ┆ fference             ┆ ting_flag           ┆ s_drifting_…        │
+│ f64       ┆ datetime[μs]  ┆ f64              ┆ f64                ┆ ---                  ┆ ---                  ┆ ---                 ┆ ---                 │
+│           ┆               ┆                  ┆                    ┆ f64                  ┆ f64                  ┆ bool                ┆ bool                │
+╞═══════════╪═══════════════╪══════════════════╪════════════════════╪══════════════════════╪══════════════════════╪═════════════════════╪═════════════════════╡
+│ 20.867    ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 00:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 21.0      ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 01:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 20.867    ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 02:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 20.65     ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 03:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 20.4      ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 04:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ …         ┆ …             ┆ …                ┆ …                  ┆ …                    ┆ …                    ┆ …                   ┆ …                   │
+│ 27.35     ┆ 2022-10-08    ┆ 26.118           ┆ 1.093              ┆ 7.93                 ┆ -4.67                ┆ true                ┆ true                │
+│           ┆ 23:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 26.8      ┆ 2022-10-09    ┆ 26.122           ┆ 1.094              ┆ 7.93                 ┆ -4.67                ┆ true                ┆ true                │
+│           ┆ 00:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 26.45     ┆ 2022-10-09    ┆ 26.121           ┆ 1.094              ┆ 7.93                 ┆ -4.67                ┆ true                ┆ true                │
+│           ┆ 01:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 25.9      ┆ 2022-10-09    ┆ 26.117           ┆ 1.094              ┆ 7.93                 ┆ -4.67                ┆ true                ┆ true                │
+│           ┆ 02:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 25.567    ┆ 2022-10-09    ┆ 26.113           ┆ 1.095              ┆ 7.92                 ┆ -4.66                ┆ true                ┆ true                │
+│           ┆ 03:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+└───────────┴───────────────┴──────────────────┴────────────────────┴──────────────────────┴──────────────────────┴─────────────────────┴─────────────────────┘
+2026-04-09 12:23:36 | INFO | P5 | Let's make that a bit nicer to read...
+2026-04-09 12:23:36 | INFO | P5 | All remaining steps are about creating a nicer display.
+2026-04-09 12:23:36 | INFO | P5 | ========================
+2026-04-09 12:23:36 | INFO | P5 | Drift Detection Process: 
+2026-04-09 12:23:36 | INFO | P5 | ========================
+2026-04-09 12:23:36 | INFO | P5 | 1. Summarize each period with means.
+2026-04-09 12:23:36 | INFO | P5 | 2. Compute difference of means.
+2026-04-09 12:23:36 | INFO | P5 | 3. Flag drift if absolute difference of means exceeds a threshold.
+2026-04-09 12:23:36 | INFO | P5 | ========================
+2026-04-09 12:23:36 | INFO | P5 | Drift summary (one field per line):
+2026-04-09 12:23:36 | INFO | P5 | DAYTON_MW: 20.867
+2026-04-09 12:23:36 | INFO | P5 | Datetime: 2022-01-04 00:00:00
+2026-04-09 12:23:36 | INFO | P5 | current_avg_temp: None
+2026-04-09 12:23:36 | INFO | P5 | current_sigma_temp: None
+2026-04-09 12:23:36 | INFO | P5 | temperature_mean_difference: None
+2026-04-09 12:23:36 | INFO | P5 | temperature_sigma_difference: None
+2026-04-09 12:23:36 | INFO | P5 | temperature_is_drifting_flag: None
+2026-04-09 12:23:36 | INFO | P5 | temperature_sigma_is_drifting_flag: None
+2026-04-09 12:23:36 | INFO | P5 | Wrote long summary file: C:\Repos\cintel-05-drift-detection\artifacts\drift_summary_long_alex.csv
+2026-04-09 12:23:36 | INFO | P5 | ========================
+2026-04-09 12:23:36 | INFO | P5 | Pipeline executed successfully!
+2026-04-09 12:23:36 | INFO | P5 | ========================
+2026-04-09 12:23:36 | INFO | P5 | END main()
+2026-04-09 12:25:37 | INFO | P5 | === RUN START ===
+2026-04-09 12:25:37 | INFO | P5 | project=CINTEL
+2026-04-09 12:25:37 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 12:25:37 | INFO | P5 | python=3.14.0
+2026-04-09 12:25:37 | INFO | P5 | os=Windows 11
+2026-04-09 12:25:37 | INFO | P5 | shell=powershell
+2026-04-09 12:25:37 | INFO | P5 | cwd=.
+2026-04-09 12:25:37 | INFO | P5 | github_actions=False
+2026-04-09 12:25:37 | INFO | P5 | ========================
+2026-04-09 12:25:37 | INFO | P5 | START main()
+2026-04-09 12:25:37 | INFO | P5 | ========================
+2026-04-09 12:25:37 | INFO | P5 | ROOT_DIR = .
+2026-04-09 12:25:37 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 12:25:37 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 12:25:37 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 12:25:37 | INFO | P5 | Loaded 6676 current records
+2026-04-09 12:25:37 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 12:25:37 | INFO | P5 | Baseline dataframe shape: (100, 2)
+┌───────────┬─────────────────────┐
+│ DAYTON_MW ┆ Datetime            │
+│ ---       ┆ ---                 │
+│ f64       ┆ datetime[μs]        │
+╞═══════════╪═════════════════════╡
+│ 20.867    ┆ 2022-01-04 00:00:00 │
+│ 21.0      ┆ 2022-01-04 01:00:00 │
+│ 20.867    ┆ 2022-01-04 02:00:00 │
+│ 20.65     ┆ 2022-01-04 03:00:00 │
+│ 20.4      ┆ 2022-01-04 04:00:00 │
+│ …         ┆ …                   │
+│ 26.2      ┆ 2022-01-07 23:00:00 │
+│ 26.75     ┆ 2022-01-08 00:00:00 │
+│ 25.867    ┆ 2022-01-08 01:00:00 │
+│ 24.767    ┆ 2022-01-08 02:00:00 │
+│ 23.95     ┆ 2022-01-08 03:00:00 │
+└───────────┴─────────────────────┘
+2026-04-09 12:25:37 | INFO | P5 | Calculated summary statistics for reference and current periods
+2026-04-09 12:25:37 | INFO | P5 | Applying drift flag recipes to determine if drift is occurring based on the defined thresholds.
+2026-04-09 12:25:37 | INFO | P5 | Calculated summary differences and drift flags
+2026-04-09 12:25:38 | INFO | P5 | Saved temperature trends plot: temperature_trends_alex.png
+2026-04-09 12:25:38 | INFO | P5 | Wrote drift summary file: C:\Repos\cintel-05-drift-detection\artifacts\drift_summary_alex.csv
+2026-04-09 12:25:38 | INFO | P5 | Drift summary dataframe:
+2026-04-09 12:25:38 | INFO | P5 | shape: (6_676, 8)
+┌───────────┬───────────────┬──────────────────┬────────────────────┬──────────────────────┬──────────────────────┬─────────────────────┬─────────────────────┐
+│ DAYTON_MW ┆ Datetime      ┆ current_avg_temp ┆ current_sigma_temp ┆ temperature_mean_dif ┆ temperature_sigma_di ┆ temperature_is_drif ┆ temperature_sigma_i │
+│ ---       ┆ ---           ┆ ---              ┆ ---                ┆ ference              ┆ fference             ┆ ting_flag           ┆ s_drifting_…        │
+│ f64       ┆ datetime[μs]  ┆ f64              ┆ f64                ┆ ---                  ┆ ---                  ┆ ---                 ┆ ---                 │
+│           ┆               ┆                  ┆                    ┆ f64                  ┆ f64                  ┆ bool                ┆ bool                │
+╞═══════════╪═══════════════╪══════════════════╪════════════════════╪══════════════════════╪══════════════════════╪═════════════════════╪═════════════════════╡
+│ 20.867    ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 00:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 21.0      ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 01:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 20.867    ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 02:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 20.65     ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 03:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 20.4      ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 04:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ …         ┆ …             ┆ …                ┆ …                  ┆ …                    ┆ …                    ┆ …                   ┆ …                   │
+│ 27.35     ┆ 2022-10-08    ┆ 26.118           ┆ 1.093              ┆ 7.93                 ┆ -4.67                ┆ true                ┆ true                │
+│           ┆ 23:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 26.8      ┆ 2022-10-09    ┆ 26.122           ┆ 1.094              ┆ 7.93                 ┆ -4.67                ┆ true                ┆ true                │
+│           ┆ 00:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 26.45     ┆ 2022-10-09    ┆ 26.121           ┆ 1.094              ┆ 7.93                 ┆ -4.67                ┆ true                ┆ true                │
+│           ┆ 01:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 25.9      ┆ 2022-10-09    ┆ 26.117           ┆ 1.094              ┆ 7.93                 ┆ -4.67                ┆ true                ┆ true                │
+│           ┆ 02:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 25.567    ┆ 2022-10-09    ┆ 26.113           ┆ 1.095              ┆ 7.92                 ┆ -4.66                ┆ true                ┆ true                │
+│           ┆ 03:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+└───────────┴───────────────┴──────────────────┴────────────────────┴──────────────────────┴──────────────────────┴─────────────────────┴─────────────────────┘
+2026-04-09 12:25:38 | INFO | P5 | Let's make that a bit nicer to read...
+2026-04-09 12:25:38 | INFO | P5 | All remaining steps are about creating a nicer display.
+2026-04-09 12:25:38 | INFO | P5 | ========================
+2026-04-09 12:25:38 | INFO | P5 | Drift Detection Process: 
+2026-04-09 12:25:38 | INFO | P5 | ========================
+2026-04-09 12:25:38 | INFO | P5 | 1. Summarize each period with means.
+2026-04-09 12:25:38 | INFO | P5 | 2. Compute difference of means.
+2026-04-09 12:25:38 | INFO | P5 | 3. Flag drift if absolute difference of means exceeds a threshold.
+2026-04-09 12:25:38 | INFO | P5 | ========================
+2026-04-09 12:25:38 | INFO | P5 | Drift summary (one field per line):
+2026-04-09 12:25:38 | INFO | P5 | DAYTON_MW: 20.867
+2026-04-09 12:25:38 | INFO | P5 | Datetime: 2022-01-04 00:00:00
+2026-04-09 12:25:38 | INFO | P5 | current_avg_temp: None
+2026-04-09 12:25:38 | INFO | P5 | current_sigma_temp: None
+2026-04-09 12:25:38 | INFO | P5 | temperature_mean_difference: None
+2026-04-09 12:25:38 | INFO | P5 | temperature_sigma_difference: None
+2026-04-09 12:25:38 | INFO | P5 | temperature_is_drifting_flag: None
+2026-04-09 12:25:38 | INFO | P5 | temperature_sigma_is_drifting_flag: None
+2026-04-09 12:25:38 | INFO | P5 | Wrote long summary file: C:\Repos\cintel-05-drift-detection\artifacts\drift_summary_long_alex.csv
+2026-04-09 12:25:38 | INFO | P5 | ========================
+2026-04-09 12:25:38 | INFO | P5 | Pipeline executed successfully!
+2026-04-09 12:25:38 | INFO | P5 | ========================
+2026-04-09 12:25:38 | INFO | P5 | END main()
+2026-04-09 12:27:39 | INFO | P5 | === RUN START ===
+2026-04-09 12:27:39 | INFO | P5 | project=CINTEL
+2026-04-09 12:27:39 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 12:27:39 | INFO | P5 | python=3.14.0
+2026-04-09 12:27:39 | INFO | P5 | os=Windows 11
+2026-04-09 12:27:39 | INFO | P5 | shell=powershell
+2026-04-09 12:27:39 | INFO | P5 | cwd=.
+2026-04-09 12:27:39 | INFO | P5 | github_actions=False
+2026-04-09 12:27:39 | INFO | P5 | ========================
+2026-04-09 12:27:39 | INFO | P5 | START main()
+2026-04-09 12:27:39 | INFO | P5 | ========================
+2026-04-09 12:27:39 | INFO | P5 | ROOT_DIR = .
+2026-04-09 12:27:39 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 12:27:39 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 12:27:39 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 12:27:39 | INFO | P5 | Loaded 6676 current records
+2026-04-09 12:27:39 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 12:27:39 | INFO | P5 | Baseline dataframe shape: (672, 2)
+┌───────────┬─────────────────────┐
+│ DAYTON_MW ┆ Datetime            │
+│ ---       ┆ ---                 │
+│ f64       ┆ datetime[μs]        │
+╞═══════════╪═════════════════════╡
+│ 20.867    ┆ 2022-01-04 00:00:00 │
+│ 21.0      ┆ 2022-01-04 01:00:00 │
+│ 20.867    ┆ 2022-01-04 02:00:00 │
+│ 20.65     ┆ 2022-01-04 03:00:00 │
+│ 20.4      ┆ 2022-01-04 04:00:00 │
+│ …         ┆ …                   │
+│ 13.6      ┆ 2022-01-31 19:00:00 │
+│ 10.65     ┆ 2022-01-31 20:00:00 │
+│ 20.233    ┆ 2022-01-31 21:00:00 │
+│ 20.475    ┆ 2022-01-31 22:00:00 │
+│ 20.267    ┆ 2022-01-31 23:00:00 │
+└───────────┴─────────────────────┘
+2026-04-09 12:27:39 | INFO | P5 | Calculated summary statistics for reference and current periods
+2026-04-09 12:27:39 | INFO | P5 | Applying drift flag recipes to determine if drift is occurring based on the defined thresholds.
+2026-04-09 12:27:39 | INFO | P5 | Calculated summary differences and drift flags
+2026-04-09 12:27:40 | INFO | P5 | Saved temperature trends plot: temperature_trends_alex.png
+2026-04-09 12:27:40 | INFO | P5 | Wrote drift summary file: C:\Repos\cintel-05-drift-detection\artifacts\drift_summary_alex.csv
+2026-04-09 12:27:40 | INFO | P5 | Drift summary dataframe:
+2026-04-09 12:27:40 | INFO | P5 | shape: (6_676, 8)
+┌───────────┬───────────────┬──────────────────┬────────────────────┬──────────────────────┬──────────────────────┬─────────────────────┬─────────────────────┐
+│ DAYTON_MW ┆ Datetime      ┆ current_avg_temp ┆ current_sigma_temp ┆ temperature_mean_dif ┆ temperature_sigma_di ┆ temperature_is_drif ┆ temperature_sigma_i │
+│ ---       ┆ ---           ┆ ---              ┆ ---                ┆ ference              ┆ fference             ┆ ting_flag           ┆ s_drifting_…        │
+│ f64       ┆ datetime[μs]  ┆ f64              ┆ f64                ┆ ---                  ┆ ---                  ┆ ---                 ┆ ---                 │
+│           ┆               ┆                  ┆                    ┆ f64                  ┆ f64                  ┆ bool                ┆ bool                │
+╞═══════════╪═══════════════╪══════════════════╪════════════════════╪══════════════════════╪══════════════════════╪═════════════════════╪═════════════════════╡
+│ 20.867    ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 00:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 21.0      ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 01:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 20.867    ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 02:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 20.65     ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 03:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 20.4      ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 04:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ …         ┆ …             ┆ …                ┆ …                  ┆ …                    ┆ …                    ┆ …                   ┆ …                   │
+│ 27.35     ┆ 2022-10-08    ┆ 22.77            ┆ 5.326              ┆ 4.27                 ┆ 0.11                 ┆ false               ┆ false               │
+│           ┆ 23:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 26.8      ┆ 2022-10-09    ┆ 22.793           ┆ 5.31               ┆ 4.3                  ┆ 0.09                 ┆ false               ┆ false               │
+│           ┆ 00:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 26.45     ┆ 2022-10-09    ┆ 22.816           ┆ 5.293              ┆ 4.32                 ┆ 0.08                 ┆ false               ┆ false               │
+│           ┆ 01:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 25.9      ┆ 2022-10-09    ┆ 22.829           ┆ 5.289              ┆ 4.33                 ┆ 0.07                 ┆ false               ┆ false               │
+│           ┆ 02:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 25.567    ┆ 2022-10-09    ┆ 22.834           ┆ 5.29               ┆ 4.34                 ┆ 0.07                 ┆ false               ┆ false               │
+│           ┆ 03:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+└───────────┴───────────────┴──────────────────┴────────────────────┴──────────────────────┴──────────────────────┴─────────────────────┴─────────────────────┘
+2026-04-09 12:27:40 | INFO | P5 | Let's make that a bit nicer to read...
+2026-04-09 12:27:40 | INFO | P5 | All remaining steps are about creating a nicer display.
+2026-04-09 12:27:40 | INFO | P5 | ========================
+2026-04-09 12:27:40 | INFO | P5 | Drift Detection Process: 
+2026-04-09 12:27:40 | INFO | P5 | ========================
+2026-04-09 12:27:40 | INFO | P5 | 1. Summarize each period with means.
+2026-04-09 12:27:40 | INFO | P5 | 2. Compute difference of means.
+2026-04-09 12:27:40 | INFO | P5 | 3. Flag drift if absolute difference of means exceeds a threshold.
+2026-04-09 12:27:40 | INFO | P5 | ========================
+2026-04-09 12:27:40 | INFO | P5 | Drift summary (one field per line):
+2026-04-09 12:27:40 | INFO | P5 | DAYTON_MW: 20.867
+2026-04-09 12:27:40 | INFO | P5 | Datetime: 2022-01-04 00:00:00
+2026-04-09 12:27:40 | INFO | P5 | current_avg_temp: None
+2026-04-09 12:27:40 | INFO | P5 | current_sigma_temp: None
+2026-04-09 12:27:40 | INFO | P5 | temperature_mean_difference: None
+2026-04-09 12:27:40 | INFO | P5 | temperature_sigma_difference: None
+2026-04-09 12:27:40 | INFO | P5 | temperature_is_drifting_flag: None
+2026-04-09 12:27:40 | INFO | P5 | temperature_sigma_is_drifting_flag: None
+2026-04-09 12:27:40 | INFO | P5 | Wrote long summary file: C:\Repos\cintel-05-drift-detection\artifacts\drift_summary_long_alex.csv
+2026-04-09 12:27:40 | INFO | P5 | ========================
+2026-04-09 12:27:40 | INFO | P5 | Pipeline executed successfully!
+2026-04-09 12:27:40 | INFO | P5 | ========================
+2026-04-09 12:27:40 | INFO | P5 | END main()
+2026-04-09 12:29:18 | INFO | P5 | === RUN START ===
+2026-04-09 12:29:18 | INFO | P5 | project=CINTEL
+2026-04-09 12:29:18 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 12:29:18 | INFO | P5 | python=3.14.0
+2026-04-09 12:29:18 | INFO | P5 | os=Windows 11
+2026-04-09 12:29:18 | INFO | P5 | shell=powershell
+2026-04-09 12:29:18 | INFO | P5 | cwd=.
+2026-04-09 12:29:18 | INFO | P5 | github_actions=False
+2026-04-09 12:29:18 | INFO | P5 | ========================
+2026-04-09 12:29:18 | INFO | P5 | START main()
+2026-04-09 12:29:18 | INFO | P5 | ========================
+2026-04-09 12:29:18 | INFO | P5 | ROOT_DIR = .
+2026-04-09 12:29:18 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 12:29:18 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 12:29:18 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 12:29:18 | INFO | P5 | Loaded 6676 current records
+2026-04-09 12:29:18 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 12:29:18 | INFO | P5 | Baseline dataframe shape: (672, 2)
+┌───────────┬─────────────────────┐
+│ DAYTON_MW ┆ Datetime            │
+│ ---       ┆ ---                 │
+│ f64       ┆ datetime[μs]        │
+╞═══════════╪═════════════════════╡
+│ 20.867    ┆ 2022-01-04 00:00:00 │
+│ 21.0      ┆ 2022-01-04 01:00:00 │
+│ 20.867    ┆ 2022-01-04 02:00:00 │
+│ 20.65     ┆ 2022-01-04 03:00:00 │
+│ 20.4      ┆ 2022-01-04 04:00:00 │
+│ …         ┆ …                   │
+│ 13.6      ┆ 2022-01-31 19:00:00 │
+│ 10.65     ┆ 2022-01-31 20:00:00 │
+│ 20.233    ┆ 2022-01-31 21:00:00 │
+│ 20.475    ┆ 2022-01-31 22:00:00 │
+│ 20.267    ┆ 2022-01-31 23:00:00 │
+└───────────┴─────────────────────┘
+2026-04-09 12:29:18 | INFO | P5 | Calculated summary statistics for reference and current periods
+2026-04-09 12:29:18 | INFO | P5 | Applying drift flag recipes to determine if drift is occurring based on the defined thresholds.
+2026-04-09 12:29:18 | INFO | P5 | Calculated summary differences and drift flags
+2026-04-09 12:29:19 | INFO | P5 | Saved temperature trends plot: temperature_trends_alex.png
+2026-04-09 12:29:19 | INFO | P5 | Wrote drift summary file: C:\Repos\cintel-05-drift-detection\artifacts\drift_summary_alex.csv
+2026-04-09 12:29:19 | INFO | P5 | Drift summary dataframe:
+2026-04-09 12:29:19 | INFO | P5 | shape: (6_676, 8)
+┌───────────┬───────────────┬──────────────────┬────────────────────┬──────────────────────┬──────────────────────┬─────────────────────┬─────────────────────┐
+│ DAYTON_MW ┆ Datetime      ┆ current_avg_temp ┆ current_sigma_temp ┆ temperature_mean_dif ┆ temperature_sigma_di ┆ temperature_is_drif ┆ temperature_sigma_i │
+│ ---       ┆ ---           ┆ ---              ┆ ---                ┆ ference              ┆ fference             ┆ ting_flag           ┆ s_drifting_…        │
+│ f64       ┆ datetime[μs]  ┆ f64              ┆ f64                ┆ ---                  ┆ ---                  ┆ ---                 ┆ ---                 │
+│           ┆               ┆                  ┆                    ┆ f64                  ┆ f64                  ┆ bool                ┆ bool                │
+╞═══════════╪═══════════════╪══════════════════╪════════════════════╪══════════════════════╪══════════════════════╪═════════════════════╪═════════════════════╡
+│ 20.867    ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 00:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 21.0      ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 01:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 20.867    ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 02:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 20.65     ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 03:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 20.4      ┆ 2022-01-04    ┆ null             ┆ null               ┆ null                 ┆ null                 ┆ null                ┆ null                │
+│           ┆ 04:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ …         ┆ …             ┆ …                ┆ …                  ┆ …                    ┆ …                    ┆ …                   ┆ …                   │
+│ 27.35     ┆ 2022-10-08    ┆ 22.77            ┆ 5.326              ┆ 4.27                 ┆ 0.11                 ┆ false               ┆ false               │
+│           ┆ 23:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 26.8      ┆ 2022-10-09    ┆ 22.793           ┆ 5.31               ┆ 4.3                  ┆ 0.09                 ┆ false               ┆ false               │
+│           ┆ 00:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 26.45     ┆ 2022-10-09    ┆ 22.816           ┆ 5.293              ┆ 4.32                 ┆ 0.08                 ┆ false               ┆ false               │
+│           ┆ 01:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 25.9      ┆ 2022-10-09    ┆ 22.829           ┆ 5.289              ┆ 4.33                 ┆ 0.07                 ┆ false               ┆ false               │
+│           ┆ 02:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+│ 25.567    ┆ 2022-10-09    ┆ 22.834           ┆ 5.29               ┆ 4.34                 ┆ 0.07                 ┆ false               ┆ false               │
+│           ┆ 03:00:00      ┆                  ┆                    ┆                      ┆                      ┆                     ┆                     │
+└───────────┴───────────────┴──────────────────┴────────────────────┴──────────────────────┴──────────────────────┴─────────────────────┴─────────────────────┘
+2026-04-09 12:29:19 | INFO | P5 | Let's make that a bit nicer to read...
+2026-04-09 12:29:19 | INFO | P5 | All remaining steps are about creating a nicer display.
+2026-04-09 12:29:19 | INFO | P5 | ========================
+2026-04-09 12:29:19 | INFO | P5 | Drift Detection Process: 
+2026-04-09 12:29:19 | INFO | P5 | ========================
+2026-04-09 12:29:19 | INFO | P5 | 1. Summarize each period with means.
+2026-04-09 12:29:19 | INFO | P5 | 2. Compute difference of means.
+2026-04-09 12:29:19 | INFO | P5 | 3. Flag drift if absolute difference of means exceeds a threshold.
+2026-04-09 12:29:19 | INFO | P5 | ========================
+2026-04-09 12:29:19 | INFO | P5 | Drift summary (one field per line):
+2026-04-09 12:29:19 | INFO | P5 | DAYTON_MW: 20.867
+2026-04-09 12:29:19 | INFO | P5 | Datetime: 2022-01-04 00:00:00
+2026-04-09 12:29:19 | INFO | P5 | current_avg_temp: None
+2026-04-09 12:29:19 | INFO | P5 | current_sigma_temp: None
+2026-04-09 12:29:19 | INFO | P5 | temperature_mean_difference: None
+2026-04-09 12:29:19 | INFO | P5 | temperature_sigma_difference: None
+2026-04-09 12:29:19 | INFO | P5 | temperature_is_drifting_flag: None
+2026-04-09 12:29:19 | INFO | P5 | temperature_sigma_is_drifting_flag: None
+2026-04-09 12:29:19 | INFO | P5 | Wrote long summary file: C:\Repos\cintel-05-drift-detection\artifacts\drift_summary_long_alex.csv
+2026-04-09 12:29:19 | INFO | P5 | ========================
+2026-04-09 12:29:19 | INFO | P5 | Pipeline executed successfully!
+2026-04-09 12:29:19 | INFO | P5 | ========================
+2026-04-09 12:29:19 | INFO | P5 | END main()
+2026-04-09 12:41:07 | INFO | P5 | === RUN START ===
+2026-04-09 12:41:07 | INFO | P5 | project=CINTEL
+2026-04-09 12:41:07 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 12:41:07 | INFO | P5 | python=3.14.0
+2026-04-09 12:41:07 | INFO | P5 | os=Windows 11
+2026-04-09 12:41:07 | INFO | P5 | shell=powershell
+2026-04-09 12:41:07 | INFO | P5 | cwd=.
+2026-04-09 12:41:07 | INFO | P5 | github_actions=False
+2026-04-09 12:41:07 | INFO | P5 | ========================
+2026-04-09 12:41:07 | INFO | P5 | START main()
+2026-04-09 12:41:07 | INFO | P5 | ========================
+2026-04-09 12:41:07 | INFO | P5 | ROOT_DIR = .
+2026-04-09 12:41:07 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 12:41:07 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 12:41:07 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 12:41:07 | INFO | P5 | Loaded 6676 current records
+2026-04-09 12:41:07 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 12:41:07 | INFO | P5 | Calculated summary statistics for reference and current periods
+2026-04-09 12:41:41 | INFO | P5 | === RUN START ===
+2026-04-09 12:41:41 | INFO | P5 | project=CINTEL
+2026-04-09 12:41:41 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 12:41:41 | INFO | P5 | python=3.14.0
+2026-04-09 12:41:41 | INFO | P5 | os=Windows 11
+2026-04-09 12:41:41 | INFO | P5 | shell=powershell
+2026-04-09 12:41:41 | INFO | P5 | cwd=.
+2026-04-09 12:41:41 | INFO | P5 | github_actions=False
+2026-04-09 12:41:41 | INFO | P5 | ========================
+2026-04-09 12:41:41 | INFO | P5 | START main()
+2026-04-09 12:41:41 | INFO | P5 | ========================
+2026-04-09 12:41:41 | INFO | P5 | ROOT_DIR = .
+2026-04-09 12:41:41 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 12:41:41 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 12:41:41 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 12:41:41 | INFO | P5 | Loaded 6676 current records
+2026-04-09 12:41:41 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 12:41:41 | INFO | P5 | Calculated summary statistics for reference and current periods
+2026-04-09 12:43:03 | INFO | P5 | === RUN START ===
+2026-04-09 12:43:03 | INFO | P5 | project=CINTEL
+2026-04-09 12:43:03 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 12:43:03 | INFO | P5 | python=3.14.0
+2026-04-09 12:43:03 | INFO | P5 | os=Windows 11
+2026-04-09 12:43:03 | INFO | P5 | shell=powershell
+2026-04-09 12:43:03 | INFO | P5 | cwd=.
+2026-04-09 12:43:03 | INFO | P5 | github_actions=False
+2026-04-09 12:43:03 | INFO | P5 | ========================
+2026-04-09 12:43:03 | INFO | P5 | START main()
+2026-04-09 12:43:03 | INFO | P5 | ========================
+2026-04-09 12:43:03 | INFO | P5 | ROOT_DIR = .
+2026-04-09 12:43:03 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 12:43:03 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 12:43:03 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 12:43:15 | INFO | P5 | === RUN START ===
+2026-04-09 12:43:15 | INFO | P5 | project=CINTEL
+2026-04-09 12:43:15 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 12:43:15 | INFO | P5 | python=3.14.0
+2026-04-09 12:43:15 | INFO | P5 | os=Windows 11
+2026-04-09 12:43:15 | INFO | P5 | shell=powershell
+2026-04-09 12:43:15 | INFO | P5 | cwd=.
+2026-04-09 12:43:15 | INFO | P5 | github_actions=False
+2026-04-09 12:43:15 | INFO | P5 | ========================
+2026-04-09 12:43:15 | INFO | P5 | START main()
+2026-04-09 12:43:15 | INFO | P5 | ========================
+2026-04-09 12:43:15 | INFO | P5 | ROOT_DIR = .
+2026-04-09 12:43:15 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 12:43:15 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 12:43:15 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 12:43:15 | INFO | P5 | Loaded 6676 current records
+2026-04-09 12:43:15 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 12:43:15 | INFO | P5 | Calculated summary statistics for reference and current periods
+2026-04-09 12:45:10 | INFO | P5 | === RUN START ===
+2026-04-09 12:45:10 | INFO | P5 | project=CINTEL
+2026-04-09 12:45:10 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 12:45:10 | INFO | P5 | python=3.14.0
+2026-04-09 12:45:10 | INFO | P5 | os=Windows 11
+2026-04-09 12:45:10 | INFO | P5 | shell=powershell
+2026-04-09 12:45:10 | INFO | P5 | cwd=.
+2026-04-09 12:45:10 | INFO | P5 | github_actions=False
+2026-04-09 12:45:10 | INFO | P5 | ========================
+2026-04-09 12:45:10 | INFO | P5 | START main()
+2026-04-09 12:45:10 | INFO | P5 | ========================
+2026-04-09 12:45:10 | INFO | P5 | ROOT_DIR = .
+2026-04-09 12:45:10 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 12:45:10 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 12:45:10 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 12:45:10 | INFO | P5 | Loaded 6676 current records
+2026-04-09 12:45:10 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 12:45:10 | INFO | P5 | Calculated summary statistics for reference and current periods
+2026-04-09 12:46:08 | INFO | P5 | === RUN START ===
+2026-04-09 12:46:08 | INFO | P5 | project=CINTEL
+2026-04-09 12:46:08 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 12:46:08 | INFO | P5 | python=3.14.0
+2026-04-09 12:46:08 | INFO | P5 | os=Windows 11
+2026-04-09 12:46:08 | INFO | P5 | shell=powershell
+2026-04-09 12:46:08 | INFO | P5 | cwd=.
+2026-04-09 12:46:08 | INFO | P5 | github_actions=False
+2026-04-09 12:46:08 | INFO | P5 | ========================
+2026-04-09 12:46:08 | INFO | P5 | START main()
+2026-04-09 12:46:08 | INFO | P5 | ========================
+2026-04-09 12:46:08 | INFO | P5 | ROOT_DIR = .
+2026-04-09 12:46:08 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 12:46:08 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 12:46:08 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 12:46:08 | INFO | P5 | Loaded 6676 current records
+2026-04-09 12:46:08 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 12:46:08 | INFO | P5 | Calculated summary statistics for reference and current periods
+2026-04-09 12:46:26 | INFO | P5 | === RUN START ===
+2026-04-09 12:46:26 | INFO | P5 | project=CINTEL
+2026-04-09 12:46:26 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 12:46:26 | INFO | P5 | python=3.14.0
+2026-04-09 12:46:26 | INFO | P5 | os=Windows 11
+2026-04-09 12:46:26 | INFO | P5 | shell=powershell
+2026-04-09 12:46:26 | INFO | P5 | cwd=.
+2026-04-09 12:46:26 | INFO | P5 | github_actions=False
+2026-04-09 12:46:26 | INFO | P5 | ========================
+2026-04-09 12:46:26 | INFO | P5 | START main()
+2026-04-09 12:46:26 | INFO | P5 | ========================
+2026-04-09 12:46:26 | INFO | P5 | ROOT_DIR = .
+2026-04-09 12:46:26 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 12:46:26 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 12:46:26 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 12:46:26 | INFO | P5 | Loaded 6676 current records
+2026-04-09 12:46:26 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 12:46:26 | INFO | P5 | Calculated summary statistics for reference and current periods
+2026-04-09 12:47:08 | INFO | P5 | === RUN START ===
+2026-04-09 12:47:08 | INFO | P5 | project=CINTEL
+2026-04-09 12:47:08 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 12:47:08 | INFO | P5 | python=3.14.0
+2026-04-09 12:47:08 | INFO | P5 | os=Windows 11
+2026-04-09 12:47:08 | INFO | P5 | shell=powershell
+2026-04-09 12:47:08 | INFO | P5 | cwd=.
+2026-04-09 12:47:08 | INFO | P5 | github_actions=False
+2026-04-09 12:47:08 | INFO | P5 | ========================
+2026-04-09 12:47:08 | INFO | P5 | START main()
+2026-04-09 12:47:08 | INFO | P5 | ========================
+2026-04-09 12:47:08 | INFO | P5 | ROOT_DIR = .
+2026-04-09 12:47:08 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 12:47:08 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 12:47:08 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 12:47:08 | INFO | P5 | Loaded 6676 current records
+2026-04-09 12:47:08 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 12:47:08 | INFO | P5 | Calculated summary statistics for reference and current periods
+2026-04-09 12:47:08 | INFO | P5 | Applying drift flag recipes to determine if drift is occurring based on the defined thresholds.
+2026-04-09 12:47:08 | INFO | P5 | Calculated summary differences and drift flags
+2026-04-09 12:47:08 | INFO | P5 | Saved temperature trends plot: temperature_trends_alex.png
+2026-04-09 12:47:09 | INFO | P5 | Wrote drift summary file: C:\Repos\cintel-05-drift-detection\artifacts\drift_summary_alex.csv
+2026-04-09 12:47:09 | INFO | P5 | Drift summary dataframe:
+2026-04-09 12:47:09 | INFO | P5 | shape: (6_676, 10)
+┌───────────┬───────────────┬────────────────────┬────────────────────┬───┬────────────────────┬────────────────────┬────────────────────┬────────────────────┐
+│ DAYTON_MW ┆ Datetime      ┆ baseline_mean_temp ┆ baseline_sigma_tem ┆ … ┆ temperature_mean_d ┆ temperature_sigma_ ┆ temperature_is_dri ┆ temperature_sigma_ │
+│ ---       ┆ ---           ┆ ---                ┆ p                  ┆   ┆ ifference          ┆ difference         ┆ fting_flag         ┆ is_drifting_…      │
+│ f64       ┆ datetime[μs]  ┆ f64                ┆ ---                ┆   ┆ ---                ┆ ---                ┆ ---                ┆ ---                │
+│           ┆               ┆                    ┆ f64                ┆   ┆ f64                ┆ f64                ┆ bool               ┆ bool               │
+╞═══════════╪═══════════════╪════════════════════╪════════════════════╪═══╪════════════════════╪════════════════════╪════════════════════╪════════════════════╡
+│ 20.867    ┆ 2022-01-04    ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│           ┆ 00:00:00      ┆                    ┆                    ┆   ┆                    ┆                    ┆                    ┆                    │
+│ 21.0      ┆ 2022-01-04    ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│           ┆ 01:00:00      ┆                    ┆                    ┆   ┆                    ┆                    ┆                    ┆                    │
+│ 20.867    ┆ 2022-01-04    ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│           ┆ 02:00:00      ┆                    ┆                    ┆   ┆                    ┆                    ┆                    ┆                    │
+│ 20.65     ┆ 2022-01-04    ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│           ┆ 03:00:00      ┆                    ┆                    ┆   ┆                    ┆                    ┆                    ┆                    │
+│ 20.4      ┆ 2022-01-04    ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│           ┆ 04:00:00      ┆                    ┆                    ┆   ┆                    ┆                    ┆                    ┆                    │
+│ …         ┆ …             ┆ …                  ┆ …                  ┆ … ┆ …                  ┆ …                  ┆ …                  ┆ …                  │
+│ 27.35     ┆ 2022-10-08    ┆ 26.328604          ┆ 1.040385           ┆ … ┆ 2.17               ┆ -0.32              ┆ false              ┆ false              │
+│           ┆ 23:00:00      ┆                    ┆                    ┆   ┆                    ┆                    ┆                    ┆                    │
+│ 26.8      ┆ 2022-10-09    ┆ 26.359854          ┆ 1.083623           ┆ … ┆ 1.85               ┆ -0.08              ┆ false              ┆ false              │
+│           ┆ 00:00:00      ┆                    ┆                    ┆   ┆                    ┆                    ┆                    ┆                    │
+│ 26.45     ┆ 2022-10-09    ┆ 26.398396          ┆ 1.142981           ┆ … ┆ 1.39               ┆ -0.01              ┆ false              ┆ false              │
+│           ┆ 01:00:00      ┆                    ┆                    ┆   ┆                    ┆                    ┆                    ┆                    │
+│ 25.9      ┆ 2022-10-09    ┆ 26.442146          ┆ 1.214866           ┆ … ┆ 0.77               ┆ -0.16              ┆ false              ┆ false              │
+│           ┆ 02:00:00      ┆                    ┆                    ┆   ┆                    ┆                    ┆                    ┆                    │
+│ 25.567    ┆ 2022-10-09    ┆ 26.471875          ┆ 1.254131           ┆ … ┆ 0.21               ┆ -0.35              ┆ false              ┆ false              │
+│           ┆ 03:00:00      ┆                    ┆                    ┆   ┆                    ┆                    ┆                    ┆                    │
+└───────────┴───────────────┴────────────────────┴────────────────────┴───┴────────────────────┴────────────────────┴────────────────────┴────────────────────┘
+2026-04-09 12:47:09 | INFO | P5 | Let's make that a bit nicer to read...
+2026-04-09 12:47:09 | INFO | P5 | All remaining steps are about creating a nicer display.
+2026-04-09 12:47:09 | INFO | P5 | ========================
+2026-04-09 12:47:09 | INFO | P5 | Drift Detection Process: 
+2026-04-09 12:47:09 | INFO | P5 | ========================
+2026-04-09 12:47:09 | INFO | P5 | 1. Summarize each period with means.
+2026-04-09 12:47:09 | INFO | P5 | 2. Compute difference of means.
+2026-04-09 12:47:09 | INFO | P5 | 3. Flag drift if absolute difference of means exceeds a threshold.
+2026-04-09 12:47:09 | INFO | P5 | ========================
+2026-04-09 12:47:09 | INFO | P5 | Drift summary (one field per line):
+2026-04-09 12:47:09 | INFO | P5 | DAYTON_MW: 20.867
+2026-04-09 12:47:09 | INFO | P5 | Datetime: 2022-01-04 00:00:00
+2026-04-09 12:47:09 | INFO | P5 | baseline_mean_temp: None
+2026-04-09 12:47:09 | INFO | P5 | baseline_sigma_temp: None
+2026-04-09 12:47:09 | INFO | P5 | current_avg_temp: None
+2026-04-09 12:47:09 | INFO | P5 | current_sigma_temp: None
+2026-04-09 12:47:09 | INFO | P5 | temperature_mean_difference: None
+2026-04-09 12:47:09 | INFO | P5 | temperature_sigma_difference: None
+2026-04-09 12:47:09 | INFO | P5 | temperature_is_drifting_flag: None
+2026-04-09 12:47:09 | INFO | P5 | temperature_sigma_is_drifting_flag: None
+2026-04-09 12:47:09 | INFO | P5 | Wrote long summary file: C:\Repos\cintel-05-drift-detection\artifacts\drift_summary_long_alex.csv
+2026-04-09 12:47:09 | INFO | P5 | ========================
+2026-04-09 12:47:09 | INFO | P5 | Pipeline executed successfully!
+2026-04-09 12:47:09 | INFO | P5 | ========================
+2026-04-09 12:47:09 | INFO | P5 | END main()
+2026-04-09 12:47:41 | INFO | P5 | === RUN START ===
+2026-04-09 12:47:41 | INFO | P5 | project=CINTEL
+2026-04-09 12:47:41 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 12:47:41 | INFO | P5 | python=3.14.0
+2026-04-09 12:47:41 | INFO | P5 | os=Windows 11
+2026-04-09 12:47:41 | INFO | P5 | shell=powershell
+2026-04-09 12:47:41 | INFO | P5 | cwd=.
+2026-04-09 12:47:41 | INFO | P5 | github_actions=False
+2026-04-09 12:47:41 | INFO | P5 | ========================
+2026-04-09 12:47:41 | INFO | P5 | START main()
+2026-04-09 12:47:41 | INFO | P5 | ========================
+2026-04-09 12:47:41 | INFO | P5 | ROOT_DIR = .
+2026-04-09 12:47:41 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 12:47:41 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 12:47:41 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 12:47:41 | INFO | P5 | Loaded 6676 current records
+2026-04-09 12:47:41 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 12:47:41 | INFO | P5 | Calculated summary statistics for reference and current periods
+2026-04-09 12:47:41 | INFO | P5 | Applying drift flag recipes to determine if drift is occurring based on the defined thresholds.
+2026-04-09 12:47:41 | INFO | P5 | Calculated summary differences and drift flags
+2026-04-09 12:47:42 | INFO | P5 | Saved temperature trends plot: temperature_trends_alex.png
+2026-04-09 12:47:42 | INFO | P5 | Wrote drift summary file: C:\Repos\cintel-05-drift-detection\artifacts\drift_summary_alex.csv
+2026-04-09 12:47:42 | INFO | P5 | Drift summary dataframe:
+2026-04-09 12:47:42 | INFO | P5 | shape: (6_676, 10)
+┌───────────┬───────────────┬────────────────────┬────────────────────┬───┬────────────────────┬────────────────────┬────────────────────┬────────────────────┐
+│ DAYTON_MW ┆ Datetime      ┆ baseline_mean_temp ┆ baseline_sigma_tem ┆ … ┆ temperature_mean_d ┆ temperature_sigma_ ┆ temperature_is_dri ┆ temperature_sigma_ │
+│ ---       ┆ ---           ┆ ---                ┆ p                  ┆   ┆ ifference          ┆ difference         ┆ fting_flag         ┆ is_drifting_…      │
+│ f64       ┆ datetime[μs]  ┆ f64                ┆ ---                ┆   ┆ ---                ┆ ---                ┆ ---                ┆ ---                │
+│           ┆               ┆                    ┆ f64                ┆   ┆ f64                ┆ f64                ┆ bool               ┆ bool               │
+╞═══════════╪═══════════════╪════════════════════╪════════════════════╪═══╪════════════════════╪════════════════════╪════════════════════╪════════════════════╡
+│ 20.867    ┆ 2022-01-04    ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│           ┆ 00:00:00      ┆                    ┆                    ┆   ┆                    ┆                    ┆                    ┆                    │
+│ 21.0      ┆ 2022-01-04    ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│           ┆ 01:00:00      ┆                    ┆                    ┆   ┆                    ┆                    ┆                    ┆                    │
+│ 20.867    ┆ 2022-01-04    ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│           ┆ 02:00:00      ┆                    ┆                    ┆   ┆                    ┆                    ┆                    ┆                    │
+│ 20.65     ┆ 2022-01-04    ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│           ┆ 03:00:00      ┆                    ┆                    ┆   ┆                    ┆                    ┆                    ┆                    │
+│ 20.4      ┆ 2022-01-04    ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│           ┆ 04:00:00      ┆                    ┆                    ┆   ┆                    ┆                    ┆                    ┆                    │
+│ …         ┆ …             ┆ …                  ┆ …                  ┆ … ┆ …                  ┆ …                  ┆ …                  ┆ …                  │
+│ 27.35     ┆ 2022-10-08    ┆ 24.187904          ┆ 4.310519           ┆ … ┆ 2.44               ┆ -3.0               ┆ false              ┆ true               │
+│           ┆ 23:00:00      ┆                    ┆                    ┆   ┆                    ┆                    ┆                    ┆                    │
+│ 26.8      ┆ 2022-10-09    ┆ 24.194708          ┆ 4.31349            ┆ … ┆ 2.43               ┆ -3.01              ┆ false              ┆ true               │
+│           ┆ 00:00:00      ┆                    ┆                    ┆   ┆                    ┆                    ┆                    ┆                    │
+│ 26.45     ┆ 2022-10-09    ┆ 24.200096          ┆ 4.315357           ┆ … ┆ 2.43               ┆ -3.01              ┆ false              ┆ true               │
+│           ┆ 01:00:00      ┆                    ┆                    ┆   ┆                    ┆                    ┆                    ┆                    │
+│ 25.9      ┆ 2022-10-09    ┆ 24.204887          ┆ 4.316405           ┆ … ┆ 2.43               ┆ -3.02              ┆ false              ┆ true               │
+│           ┆ 02:00:00      ┆                    ┆                    ┆   ┆                    ┆                    ┆                    ┆                    │
+│ 25.567    ┆ 2022-10-09    ┆ 24.209858          ┆ 4.317028           ┆ … ┆ 2.43               ┆ -3.03              ┆ false              ┆ true               │
+│           ┆ 03:00:00      ┆                    ┆                    ┆   ┆                    ┆                    ┆                    ┆                    │
+└───────────┴───────────────┴────────────────────┴────────────────────┴───┴────────────────────┴────────────────────┴────────────────────┴────────────────────┘
+2026-04-09 12:47:42 | INFO | P5 | Let's make that a bit nicer to read...
+2026-04-09 12:47:42 | INFO | P5 | All remaining steps are about creating a nicer display.
+2026-04-09 12:47:42 | INFO | P5 | ========================
+2026-04-09 12:47:42 | INFO | P5 | Drift Detection Process: 
+2026-04-09 12:47:42 | INFO | P5 | ========================
+2026-04-09 12:47:42 | INFO | P5 | 1. Summarize each period with means.
+2026-04-09 12:47:42 | INFO | P5 | 2. Compute difference of means.
+2026-04-09 12:47:42 | INFO | P5 | 3. Flag drift if absolute difference of means exceeds a threshold.
+2026-04-09 12:47:42 | INFO | P5 | ========================
+2026-04-09 12:47:42 | INFO | P5 | Drift summary (one field per line):
+2026-04-09 12:47:42 | INFO | P5 | DAYTON_MW: 20.867
+2026-04-09 12:47:42 | INFO | P5 | Datetime: 2022-01-04 00:00:00
+2026-04-09 12:47:42 | INFO | P5 | baseline_mean_temp: None
+2026-04-09 12:47:42 | INFO | P5 | baseline_sigma_temp: None
+2026-04-09 12:47:42 | INFO | P5 | current_avg_temp: None
+2026-04-09 12:47:42 | INFO | P5 | current_sigma_temp: None
+2026-04-09 12:47:42 | INFO | P5 | temperature_mean_difference: None
+2026-04-09 12:47:42 | INFO | P5 | temperature_sigma_difference: None
+2026-04-09 12:47:42 | INFO | P5 | temperature_is_drifting_flag: None
+2026-04-09 12:47:42 | INFO | P5 | temperature_sigma_is_drifting_flag: None
+2026-04-09 12:47:42 | INFO | P5 | Wrote long summary file: C:\Repos\cintel-05-drift-detection\artifacts\drift_summary_long_alex.csv
+2026-04-09 12:47:42 | INFO | P5 | ========================
+2026-04-09 12:47:42 | INFO | P5 | Pipeline executed successfully!
+2026-04-09 12:47:42 | INFO | P5 | ========================
+2026-04-09 12:47:42 | INFO | P5 | END main()
+2026-04-09 12:49:21 | INFO | P5 | === RUN START ===
+2026-04-09 12:49:21 | INFO | P5 | project=CINTEL
+2026-04-09 12:49:21 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 12:49:21 | INFO | P5 | python=3.14.0
+2026-04-09 12:49:21 | INFO | P5 | os=Windows 11
+2026-04-09 12:49:21 | INFO | P5 | shell=powershell
+2026-04-09 12:49:21 | INFO | P5 | cwd=.
+2026-04-09 12:49:21 | INFO | P5 | github_actions=False
+2026-04-09 12:49:21 | INFO | P5 | ========================
+2026-04-09 12:49:21 | INFO | P5 | START main()
+2026-04-09 12:49:21 | INFO | P5 | ========================
+2026-04-09 12:49:21 | INFO | P5 | ROOT_DIR = .
+2026-04-09 12:49:21 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 12:49:21 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 12:49:21 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 12:49:21 | INFO | P5 | Loaded 6676 current records
+2026-04-09 12:49:21 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 12:49:21 | INFO | P5 | Calculated summary statistics for reference and current periods
+2026-04-09 12:49:21 | INFO | P5 | Applying drift flag recipes to determine if drift is occurring based on the defined thresholds.
+2026-04-09 12:49:21 | INFO | P5 | Calculated summary differences and drift flags
+2026-04-09 12:49:21 | INFO | P5 | Saved temperature trends plot: temperature_trends_alex.png
+2026-04-09 12:49:21 | INFO | P5 | Wrote drift summary file: C:\Repos\cintel-05-drift-detection\artifacts\drift_summary_alex.csv
+2026-04-09 12:49:21 | INFO | P5 | Drift summary dataframe:
+2026-04-09 12:49:21 | INFO | P5 | shape: (6_676, 10)
+┌───────────┬───────────────┬────────────────────┬────────────────────┬───┬────────────────────┬────────────────────┬────────────────────┬────────────────────┐
+│ DAYTON_MW ┆ Datetime      ┆ baseline_mean_temp ┆ baseline_sigma_tem ┆ … ┆ temperature_mean_d ┆ temperature_sigma_ ┆ temperature_is_dri ┆ temperature_sigma_ │
+│ ---       ┆ ---           ┆ ---                ┆ p                  ┆   ┆ ifference          ┆ difference         ┆ fting_flag         ┆ is_drifting_…      │
+│ f64       ┆ datetime[μs]  ┆ f64                ┆ ---                ┆   ┆ ---                ┆ ---                ┆ ---                ┆ ---                │
+│           ┆               ┆                    ┆ f64                ┆   ┆ f64                ┆ f64                ┆ bool               ┆ bool               │
+╞═══════════╪═══════════════╪════════════════════╪════════════════════╪═══╪════════════════════╪════════════════════╪════════════════════╪════════════════════╡
+│ 20.867    ┆ 2022-01-04    ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│           ┆ 00:00:00      ┆                    ┆                    ┆   ┆                    ┆                    ┆                    ┆                    │
+│ 21.0      ┆ 2022-01-04    ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│           ┆ 01:00:00      ┆                    ┆                    ┆   ┆                    ┆                    ┆                    ┆                    │
+│ 20.867    ┆ 2022-01-04    ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│           ┆ 02:00:00      ┆                    ┆                    ┆   ┆                    ┆                    ┆                    ┆                    │
+│ 20.65     ┆ 2022-01-04    ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│           ┆ 03:00:00      ┆                    ┆                    ┆   ┆                    ┆                    ┆                    ┆                    │
+│ 20.4      ┆ 2022-01-04    ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│           ┆ 04:00:00      ┆                    ┆                    ┆   ┆                    ┆                    ┆                    ┆                    │
+│ …         ┆ …             ┆ …                  ┆ …                  ┆ … ┆ …                  ┆ …                  ┆ …                  ┆ …                  │
+│ 27.35     ┆ 2022-10-08    ┆ 24.21319           ┆ 4.848678           ┆ … ┆ 2.41               ┆ -3.54              ┆ true               ┆ true               │
+│           ┆ 23:00:00      ┆                    ┆                    ┆   ┆                    ┆                    ┆                    ┆                    │
+│ 26.8      ┆ 2022-10-09    ┆ 24.2115            ┆ 4.847691           ┆ … ┆ 2.41               ┆ -3.54              ┆ true               ┆ true               │
+│           ┆ 00:00:00      ┆                    ┆                    ┆   ┆                    ┆                    ┆                    ┆                    │
+│ 26.45     ┆ 2022-10-09    ┆ 24.205744          ┆ 4.844575           ┆ … ┆ 2.42               ┆ -3.54              ┆ true               ┆ true               │
+│           ┆ 01:00:00      ┆                    ┆                    ┆   ┆                    ┆                    ┆                    ┆                    │
+│ 25.9      ┆ 2022-10-09    ┆ 24.232137          ┆ 4.840633           ┆ … ┆ 2.4                ┆ -3.54              ┆ true               ┆ true               │
+│           ┆ 02:00:00      ┆                    ┆                    ┆   ┆                    ┆                    ┆                    ┆                    │
+│ 25.567    ┆ 2022-10-09    ┆ 24.24156           ┆ 4.841249           ┆ … ┆ 2.4                ┆ -3.55              ┆ true               ┆ true               │
+│           ┆ 03:00:00      ┆                    ┆                    ┆   ┆                    ┆                    ┆                    ┆                    │
+└───────────┴───────────────┴────────────────────┴────────────────────┴───┴────────────────────┴────────────────────┴────────────────────┴────────────────────┘
+2026-04-09 12:49:21 | INFO | P5 | Let's make that a bit nicer to read...
+2026-04-09 12:49:21 | INFO | P5 | All remaining steps are about creating a nicer display.
+2026-04-09 12:49:21 | INFO | P5 | ========================
+2026-04-09 12:49:21 | INFO | P5 | Drift Detection Process: 
+2026-04-09 12:49:21 | INFO | P5 | ========================
+2026-04-09 12:49:21 | INFO | P5 | 1. Summarize each period with means.
+2026-04-09 12:49:21 | INFO | P5 | 2. Compute difference of means.
+2026-04-09 12:49:21 | INFO | P5 | 3. Flag drift if absolute difference of means exceeds a threshold.
+2026-04-09 12:49:21 | INFO | P5 | ========================
+2026-04-09 12:49:21 | INFO | P5 | Drift summary (one field per line):
+2026-04-09 12:49:21 | INFO | P5 | DAYTON_MW: 20.867
+2026-04-09 12:49:21 | INFO | P5 | Datetime: 2022-01-04 00:00:00
+2026-04-09 12:49:21 | INFO | P5 | baseline_mean_temp: None
+2026-04-09 12:49:21 | INFO | P5 | baseline_sigma_temp: None
+2026-04-09 12:49:21 | INFO | P5 | current_avg_temp: None
+2026-04-09 12:49:21 | INFO | P5 | current_sigma_temp: None
+2026-04-09 12:49:21 | INFO | P5 | temperature_mean_difference: None
+2026-04-09 12:49:21 | INFO | P5 | temperature_sigma_difference: None
+2026-04-09 12:49:21 | INFO | P5 | temperature_is_drifting_flag: None
+2026-04-09 12:49:21 | INFO | P5 | temperature_sigma_is_drifting_flag: None
+2026-04-09 12:49:21 | INFO | P5 | Wrote long summary file: C:\Repos\cintel-05-drift-detection\artifacts\drift_summary_long_alex.csv
+2026-04-09 12:49:21 | INFO | P5 | ========================
+2026-04-09 12:49:21 | INFO | P5 | Pipeline executed successfully!
+2026-04-09 12:49:21 | INFO | P5 | ========================
+2026-04-09 12:49:21 | INFO | P5 | END main()
+2026-04-09 13:03:42 | INFO | P5 | === RUN START ===
+2026-04-09 13:03:42 | INFO | P5 | project=CINTEL
+2026-04-09 13:03:42 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 13:03:42 | INFO | P5 | python=3.14.0
+2026-04-09 13:03:42 | INFO | P5 | os=Windows 11
+2026-04-09 13:03:42 | INFO | P5 | shell=powershell
+2026-04-09 13:03:42 | INFO | P5 | cwd=.
+2026-04-09 13:03:42 | INFO | P5 | github_actions=False
+2026-04-09 13:03:42 | INFO | P5 | ========================
+2026-04-09 13:03:42 | INFO | P5 | START main()
+2026-04-09 13:03:42 | INFO | P5 | ========================
+2026-04-09 13:03:42 | INFO | P5 | ROOT_DIR = .
+2026-04-09 13:03:42 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 13:03:42 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 13:03:42 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 13:03:42 | INFO | P5 | Loaded 6676 current records
+2026-04-09 13:03:42 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 13:03:42 | INFO | P5 | Calculated summary statistics for reference and current periods
+2026-04-09 13:03:42 | INFO | P5 | Defined difference recipes for mean and standard deviation of temperature
+2026-04-09 13:03:42 | INFO | P5 | Applying drift flag recipes to determine if drift is occurring based on the defined thresholds.
+2026-04-09 13:03:42 | INFO | P5 | Calculated summary differences and drift flags
+2026-04-09 13:03:43 | INFO | P5 | Saved temperature trends plot: temperature_trends_alex.png
+2026-04-09 13:03:43 | INFO | P5 | Wrote drift summary file: C:\Repos\cintel-05-drift-detection\artifacts\drift_summary_alex.csv
+2026-04-09 13:03:43 | INFO | P5 | Drift summary dataframe:
+2026-04-09 13:03:43 | INFO | P5 | shape: (6_676, 10)
+┌───────────┬───────────────┬────────────────────┬────────────────────┬───┬────────────────────┬────────────────────┬────────────────────┬────────────────────┐
+│ DAYTON_MW ┆ Datetime      ┆ baseline_mean_temp ┆ baseline_sigma_tem ┆ … ┆ temperature_mean_d ┆ temperature_sigma_ ┆ temperature_is_dri ┆ temperature_sigma_ │
+│ ---       ┆ ---           ┆ ---                ┆ p                  ┆   ┆ ifference          ┆ difference         ┆ fting_flag         ┆ is_drifting_…      │
+│ f64       ┆ str           ┆ f64                ┆ ---                ┆   ┆ ---                ┆ ---                ┆ ---                ┆ ---                │
+│           ┆               ┆                    ┆ f64                ┆   ┆ f64                ┆ f64                ┆ bool               ┆ bool               │
+╞═══════════╪═══════════════╪════════════════════╪════════════════════╪═══╪════════════════════╪════════════════════╪════════════════════╪════════════════════╡
+│ 20.867    ┆ 01/04/2022 00 ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│ 21.0      ┆ 01/04/2022 01 ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│ 20.867    ┆ 01/04/2022 02 ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│ 20.65     ┆ 01/04/2022 03 ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│ 20.4      ┆ 01/04/2022 04 ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│ …         ┆ …             ┆ …                  ┆ …                  ┆ … ┆ …                  ┆ …                  ┆ …                  ┆ …                  │
+│ 27.35     ┆ 10/08/2022 23 ┆ 24.21319           ┆ 4.848678           ┆ … ┆ 2.41               ┆ -3.54              ┆ true               ┆ true               │
+│ 26.8      ┆ 10/09/2022 00 ┆ 24.2115            ┆ 4.847691           ┆ … ┆ 2.41               ┆ -3.54              ┆ true               ┆ true               │
+│ 26.45     ┆ 10/09/2022 01 ┆ 24.205744          ┆ 4.844575           ┆ … ┆ 2.42               ┆ -3.54              ┆ true               ┆ true               │
+│ 25.9      ┆ 10/09/2022 02 ┆ 24.232137          ┆ 4.840633           ┆ … ┆ 2.4                ┆ -3.54              ┆ true               ┆ true               │
+│ 25.567    ┆ 10/09/2022 03 ┆ 24.24156           ┆ 4.841249           ┆ … ┆ 2.4                ┆ -3.55              ┆ true               ┆ true               │
+└───────────┴───────────────┴────────────────────┴────────────────────┴───┴────────────────────┴────────────────────┴────────────────────┴────────────────────┘
+2026-04-09 13:03:43 | INFO | P5 | Let's make that a bit nicer to read...
+2026-04-09 13:03:43 | INFO | P5 | All remaining steps are about creating a nicer display.
+2026-04-09 13:04:37 | INFO | P5 | === RUN START ===
+2026-04-09 13:04:37 | INFO | P5 | project=CINTEL
+2026-04-09 13:04:37 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 13:04:37 | INFO | P5 | python=3.14.0
+2026-04-09 13:04:37 | INFO | P5 | os=Windows 11
+2026-04-09 13:04:37 | INFO | P5 | shell=powershell
+2026-04-09 13:04:37 | INFO | P5 | cwd=.
+2026-04-09 13:04:37 | INFO | P5 | github_actions=False
+2026-04-09 13:04:37 | INFO | P5 | ========================
+2026-04-09 13:04:37 | INFO | P5 | START main()
+2026-04-09 13:04:37 | INFO | P5 | ========================
+2026-04-09 13:04:37 | INFO | P5 | ROOT_DIR = .
+2026-04-09 13:04:37 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 13:04:37 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 13:04:37 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 13:04:37 | INFO | P5 | Loaded 6676 current records
+2026-04-09 13:04:37 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 13:04:37 | INFO | P5 | Calculated summary statistics for reference and current periods
+2026-04-09 13:04:37 | INFO | P5 | Defined difference recipes for mean and standard deviation of temperature
+2026-04-09 13:04:37 | INFO | P5 | Applying drift flag recipes to determine if drift is occurring based on the defined thresholds.
+2026-04-09 13:04:37 | INFO | P5 | Calculated summary differences and drift flags
+2026-04-09 13:04:38 | INFO | P5 | Saved temperature trends plot: temperature_trends_alex.png
+2026-04-09 13:04:38 | INFO | P5 | Wrote drift summary file: C:\Repos\cintel-05-drift-detection\artifacts\drift_summary_alex.csv
+2026-04-09 13:04:38 | INFO | P5 | Drift summary dataframe:
+2026-04-09 13:04:38 | INFO | P5 | shape: (6_676, 10)
+┌───────────┬───────────────┬────────────────────┬────────────────────┬───┬────────────────────┬────────────────────┬────────────────────┬────────────────────┐
+│ DAYTON_MW ┆ Datetime      ┆ baseline_mean_temp ┆ baseline_sigma_tem ┆ … ┆ temperature_mean_d ┆ temperature_sigma_ ┆ temperature_is_dri ┆ temperature_sigma_ │
+│ ---       ┆ ---           ┆ ---                ┆ p                  ┆   ┆ ifference          ┆ difference         ┆ fting_flag         ┆ is_drifting_…      │
+│ f64       ┆ str           ┆ f64                ┆ ---                ┆   ┆ ---                ┆ ---                ┆ ---                ┆ ---                │
+│           ┆               ┆                    ┆ f64                ┆   ┆ f64                ┆ f64                ┆ bool               ┆ bool               │
+╞═══════════╪═══════════════╪════════════════════╪════════════════════╪═══╪════════════════════╪════════════════════╪════════════════════╪════════════════════╡
+│ 20.867    ┆ 01/04/2022 00 ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│ 21.0      ┆ 01/04/2022 01 ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│ 20.867    ┆ 01/04/2022 02 ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│ 20.65     ┆ 01/04/2022 03 ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│ 20.4      ┆ 01/04/2022 04 ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│ …         ┆ …             ┆ …                  ┆ …                  ┆ … ┆ …                  ┆ …                  ┆ …                  ┆ …                  │
+│ 27.35     ┆ 10/08/2022 23 ┆ 24.21319           ┆ 4.848678           ┆ … ┆ 2.41               ┆ -3.54              ┆ true               ┆ true               │
+│ 26.8      ┆ 10/09/2022 00 ┆ 24.2115            ┆ 4.847691           ┆ … ┆ 2.41               ┆ -3.54              ┆ true               ┆ true               │
+│ 26.45     ┆ 10/09/2022 01 ┆ 24.205744          ┆ 4.844575           ┆ … ┆ 2.42               ┆ -3.54              ┆ true               ┆ true               │
+│ 25.9      ┆ 10/09/2022 02 ┆ 24.232137          ┆ 4.840633           ┆ … ┆ 2.4                ┆ -3.54              ┆ true               ┆ true               │
+│ 25.567    ┆ 10/09/2022 03 ┆ 24.24156           ┆ 4.841249           ┆ … ┆ 2.4                ┆ -3.55              ┆ true               ┆ true               │
+└───────────┴───────────────┴────────────────────┴────────────────────┴───┴────────────────────┴────────────────────┴────────────────────┴────────────────────┘
+2026-04-09 13:04:38 | INFO | P5 | Let's make that a bit nicer to read...
+2026-04-09 13:04:38 | INFO | P5 | All remaining steps are about creating a nicer display.
+2026-04-09 13:04:38 | INFO | P5 | ========================
+2026-04-09 13:04:38 | INFO | P5 | Drift Detection Process: 
+2026-04-09 13:04:38 | INFO | P5 | ========================
+2026-04-09 13:04:38 | INFO | P5 | Created a file containing values flagged for drift.
+2026-04-09 13:04:38 | INFO | P5 | ========================
+2026-04-09 13:04:38 | INFO | P5 | Wrote long summary file: C:\Repos\cintel-05-drift-detection\artifacts\drift_summary_long_alex.csv
+2026-04-09 13:04:38 | INFO | P5 | ========================
+2026-04-09 13:04:38 | INFO | P5 | Pipeline executed successfully!
+2026-04-09 13:04:38 | INFO | P5 | ========================
+2026-04-09 13:04:38 | INFO | P5 | END main()
+2026-04-09 13:05:52 | INFO | P5 | === RUN START ===
+2026-04-09 13:05:52 | INFO | P5 | project=CINTEL
+2026-04-09 13:05:52 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 13:05:52 | INFO | P5 | python=3.14.0
+2026-04-09 13:05:52 | INFO | P5 | os=Windows 11
+2026-04-09 13:05:52 | INFO | P5 | shell=powershell
+2026-04-09 13:05:52 | INFO | P5 | cwd=.
+2026-04-09 13:05:52 | INFO | P5 | github_actions=False
+2026-04-09 13:05:52 | INFO | P5 | ========================
+2026-04-09 13:05:52 | INFO | P5 | START main()
+2026-04-09 13:05:52 | INFO | P5 | ========================
+2026-04-09 13:05:52 | INFO | P5 | ROOT_DIR = .
+2026-04-09 13:05:52 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 13:05:52 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 13:05:52 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 13:05:52 | INFO | P5 | Loaded 6676 current records
+2026-04-09 13:05:52 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 13:05:52 | INFO | P5 | Calculated summary statistics for reference and current periods
+2026-04-09 13:05:52 | INFO | P5 | Defined difference recipes for mean and standard deviation of temperature
+2026-04-09 13:05:52 | INFO | P5 | Applying drift flag recipes to determine if drift is occurring based on the defined thresholds.
+2026-04-09 13:05:52 | INFO | P5 | Calculated summary differences and drift flags
+2026-04-09 13:05:53 | INFO | P5 | Saved temperature trends plot: temperature_trends_alex.png
+2026-04-09 13:05:53 | INFO | P5 | Wrote drift summary file: C:\Repos\cintel-05-drift-detection\artifacts\drift_summary_alex.csv
+2026-04-09 13:05:53 | INFO | P5 | Drift summary dataframe:
+2026-04-09 13:05:53 | INFO | P5 | shape: (6_676, 10)
+┌───────────┬───────────────┬────────────────────┬────────────────────┬───┬────────────────────┬────────────────────┬────────────────────┬────────────────────┐
+│ DAYTON_MW ┆ Datetime      ┆ baseline_mean_temp ┆ baseline_sigma_tem ┆ … ┆ temperature_mean_d ┆ temperature_sigma_ ┆ temperature_is_dri ┆ temperature_sigma_ │
+│ ---       ┆ ---           ┆ ---                ┆ p                  ┆   ┆ ifference          ┆ difference         ┆ fting_flag         ┆ is_drifting_…      │
+│ f64       ┆ str           ┆ f64                ┆ ---                ┆   ┆ ---                ┆ ---                ┆ ---                ┆ ---                │
+│           ┆               ┆                    ┆ f64                ┆   ┆ f64                ┆ f64                ┆ bool               ┆ bool               │
+╞═══════════╪═══════════════╪════════════════════╪════════════════════╪═══╪════════════════════╪════════════════════╪════════════════════╪════════════════════╡
+│ 20.867    ┆ 01/04/2022 00 ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│ 21.0      ┆ 01/04/2022 01 ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│ 20.867    ┆ 01/04/2022 02 ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│ 20.65     ┆ 01/04/2022 03 ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│ 20.4      ┆ 01/04/2022 04 ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│ …         ┆ …             ┆ …                  ┆ …                  ┆ … ┆ …                  ┆ …                  ┆ …                  ┆ …                  │
+│ 27.35     ┆ 10/08/2022 23 ┆ 24.21              ┆ 4.85               ┆ … ┆ 2.41               ┆ -3.54              ┆ true               ┆ true               │
+│ 26.8      ┆ 10/09/2022 00 ┆ 24.21              ┆ 4.85               ┆ … ┆ 2.41               ┆ -3.54              ┆ true               ┆ true               │
+│ 26.45     ┆ 10/09/2022 01 ┆ 24.21              ┆ 4.84               ┆ … ┆ 2.42               ┆ -3.54              ┆ true               ┆ true               │
+│ 25.9      ┆ 10/09/2022 02 ┆ 24.23              ┆ 4.84               ┆ … ┆ 2.4                ┆ -3.54              ┆ true               ┆ true               │
+│ 25.567    ┆ 10/09/2022 03 ┆ 24.24              ┆ 4.84               ┆ … ┆ 2.4                ┆ -3.55              ┆ true               ┆ true               │
+└───────────┴───────────────┴────────────────────┴────────────────────┴───┴────────────────────┴────────────────────┴────────────────────┴────────────────────┘
+2026-04-09 13:05:53 | INFO | P5 | Let's make that a bit nicer to read...
+2026-04-09 13:05:53 | INFO | P5 | All remaining steps are about creating a nicer display.
+2026-04-09 13:05:53 | INFO | P5 | ========================
+2026-04-09 13:05:53 | INFO | P5 | Drift Detection Process: 
+2026-04-09 13:05:53 | INFO | P5 | ========================
+2026-04-09 13:05:53 | INFO | P5 | Created a file containing values flagged for drift.
+2026-04-09 13:05:53 | INFO | P5 | ========================
+2026-04-09 13:05:53 | INFO | P5 | Wrote long summary file: C:\Repos\cintel-05-drift-detection\artifacts\drift_summary_long_alex.csv
+2026-04-09 13:05:53 | INFO | P5 | ========================
+2026-04-09 13:05:53 | INFO | P5 | Pipeline executed successfully!
+2026-04-09 13:05:53 | INFO | P5 | ========================
+2026-04-09 13:05:53 | INFO | P5 | END main()
+2026-04-09 13:06:13 | INFO | P5 | === RUN START ===
+2026-04-09 13:06:13 | INFO | P5 | project=CINTEL
+2026-04-09 13:06:13 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 13:06:13 | INFO | P5 | python=3.14.0
+2026-04-09 13:06:13 | INFO | P5 | os=Windows 11
+2026-04-09 13:06:13 | INFO | P5 | shell=powershell
+2026-04-09 13:06:13 | INFO | P5 | cwd=.
+2026-04-09 13:06:13 | INFO | P5 | github_actions=False
+2026-04-09 13:06:13 | INFO | P5 | ========================
+2026-04-09 13:06:13 | INFO | P5 | START main()
+2026-04-09 13:06:13 | INFO | P5 | ========================
+2026-04-09 13:06:13 | INFO | P5 | ROOT_DIR = .
+2026-04-09 13:06:13 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 13:06:13 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 13:06:13 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 13:06:13 | INFO | P5 | Loaded 6676 current records
+2026-04-09 13:06:13 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 13:06:13 | INFO | P5 | Calculated summary statistics for reference and current periods
+2026-04-09 13:06:13 | INFO | P5 | Defined difference recipes for mean and standard deviation of temperature
+2026-04-09 13:06:13 | INFO | P5 | Applying drift flag recipes to determine if drift is occurring based on the defined thresholds.
+2026-04-09 13:06:13 | INFO | P5 | Calculated summary differences and drift flags
+2026-04-09 13:06:14 | INFO | P5 | Saved temperature trends plot: temperature_trends_alex.png
+2026-04-09 13:06:14 | INFO | P5 | Wrote drift summary file: C:\Repos\cintel-05-drift-detection\artifacts\drift_summary_alex.csv
+2026-04-09 13:06:14 | INFO | P5 | Drift summary dataframe:
+2026-04-09 13:06:14 | INFO | P5 | shape: (6_676, 10)
+┌───────────┬───────────────┬────────────────────┬────────────────────┬───┬────────────────────┬────────────────────┬────────────────────┬────────────────────┐
+│ DAYTON_MW ┆ Datetime      ┆ baseline_mean_temp ┆ baseline_sigma_tem ┆ … ┆ temperature_mean_d ┆ temperature_sigma_ ┆ temperature_is_dri ┆ temperature_sigma_ │
+│ ---       ┆ ---           ┆ ---                ┆ p                  ┆   ┆ ifference          ┆ difference         ┆ fting_flag         ┆ is_drifting_…      │
+│ f64       ┆ str           ┆ f64                ┆ ---                ┆   ┆ ---                ┆ ---                ┆ ---                ┆ ---                │
+│           ┆               ┆                    ┆ f64                ┆   ┆ f64                ┆ f64                ┆ bool               ┆ bool               │
+╞═══════════╪═══════════════╪════════════════════╪════════════════════╪═══╪════════════════════╪════════════════════╪════════════════════╪════════════════════╡
+│ 20.867    ┆ 01/04/2022 00 ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│ 21.0      ┆ 01/04/2022 01 ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│ 20.867    ┆ 01/04/2022 02 ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│ 20.65     ┆ 01/04/2022 03 ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│ 20.4      ┆ 01/04/2022 04 ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│ …         ┆ …             ┆ …                  ┆ …                  ┆ … ┆ …                  ┆ …                  ┆ …                  ┆ …                  │
+│ 27.35     ┆ 10/08/2022 23 ┆ 24.21              ┆ 4.85               ┆ … ┆ 2.41               ┆ -3.54              ┆ true               ┆ true               │
+│ 26.8      ┆ 10/09/2022 00 ┆ 24.21              ┆ 4.85               ┆ … ┆ 2.41               ┆ -3.54              ┆ true               ┆ true               │
+│ 26.45     ┆ 10/09/2022 01 ┆ 24.21              ┆ 4.84               ┆ … ┆ 2.42               ┆ -3.54              ┆ true               ┆ true               │
+│ 25.9      ┆ 10/09/2022 02 ┆ 24.23              ┆ 4.84               ┆ … ┆ 2.4                ┆ -3.54              ┆ true               ┆ true               │
+│ 25.567    ┆ 10/09/2022 03 ┆ 24.24              ┆ 4.84               ┆ … ┆ 2.4                ┆ -3.55              ┆ true               ┆ true               │
+└───────────┴───────────────┴────────────────────┴────────────────────┴───┴────────────────────┴────────────────────┴────────────────────┴────────────────────┘
+2026-04-09 13:06:14 | INFO | P5 | Let's make that a bit nicer to read...
+2026-04-09 13:06:14 | INFO | P5 | All remaining steps are about creating a nicer display.
+2026-04-09 13:06:14 | INFO | P5 | ========================
+2026-04-09 13:06:14 | INFO | P5 | Drift Detection Process: 
+2026-04-09 13:06:14 | INFO | P5 | ========================
+2026-04-09 13:06:14 | INFO | P5 | Created a file containing values flagged for drift.
+2026-04-09 13:06:14 | INFO | P5 | ========================
+2026-04-09 13:06:14 | INFO | P5 | Wrote long summary file: C:\Repos\cintel-05-drift-detection\artifacts\drift_summary_long_alex.csv
+2026-04-09 13:06:14 | INFO | P5 | ========================
+2026-04-09 13:06:14 | INFO | P5 | Pipeline executed successfully!
+2026-04-09 13:06:14 | INFO | P5 | ========================
+2026-04-09 13:06:14 | INFO | P5 | END main()
+2026-04-09 13:14:34 | INFO | P5 | === RUN START ===
+2026-04-09 13:14:34 | INFO | P5 | project=CINTEL
+2026-04-09 13:14:34 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 13:14:34 | INFO | P5 | python=3.14.0
+2026-04-09 13:14:34 | INFO | P5 | os=Windows 11
+2026-04-09 13:14:34 | INFO | P5 | shell=powershell
+2026-04-09 13:14:34 | INFO | P5 | cwd=.
+2026-04-09 13:14:34 | INFO | P5 | github_actions=False
+2026-04-09 13:14:34 | INFO | P5 | ========================
+2026-04-09 13:14:34 | INFO | P5 | START main()
+2026-04-09 13:14:34 | INFO | P5 | ========================
+2026-04-09 13:14:34 | INFO | P5 | ROOT_DIR = .
+2026-04-09 13:14:34 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 13:14:34 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 13:14:34 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 13:14:34 | INFO | P5 | Loaded 6676 current records
+2026-04-09 13:14:34 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 13:14:34 | INFO | P5 | Calculated summary statistics for reference and current periods
+2026-04-09 13:14:34 | INFO | P5 | Defined difference recipes for mean and standard deviation of temperature
+2026-04-09 13:14:34 | INFO | P5 | Applying drift flag recipes to determine if drift is occurring based on the defined thresholds.
+2026-04-09 13:14:34 | INFO | P5 | Calculated summary differences and drift flags
+2026-04-09 13:15:14 | INFO | P5 | === RUN START ===
+2026-04-09 13:15:14 | INFO | P5 | project=CINTEL
+2026-04-09 13:15:14 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 13:15:14 | INFO | P5 | python=3.14.0
+2026-04-09 13:15:14 | INFO | P5 | os=Windows 11
+2026-04-09 13:15:14 | INFO | P5 | shell=powershell
+2026-04-09 13:15:14 | INFO | P5 | cwd=.
+2026-04-09 13:15:14 | INFO | P5 | github_actions=False
+2026-04-09 13:15:14 | INFO | P5 | ========================
+2026-04-09 13:15:14 | INFO | P5 | START main()
+2026-04-09 13:15:14 | INFO | P5 | ========================
+2026-04-09 13:15:14 | INFO | P5 | ROOT_DIR = .
+2026-04-09 13:15:14 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 13:15:14 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 13:15:14 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 13:15:14 | INFO | P5 | Loaded 6676 current records
+2026-04-09 13:15:14 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 13:15:14 | INFO | P5 | Calculated summary statistics for reference and current periods
+2026-04-09 13:15:14 | INFO | P5 | Defined difference recipes for mean and standard deviation of temperature
+2026-04-09 13:15:14 | INFO | P5 | Applying drift flag recipes to determine if drift is occurring based on the defined thresholds.
+2026-04-09 13:15:14 | INFO | P5 | Calculated summary differences and drift flags
+2026-04-09 13:19:52 | INFO | P5 | === RUN START ===
+2026-04-09 13:19:52 | INFO | P5 | project=CINTEL
+2026-04-09 13:19:52 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 13:19:52 | INFO | P5 | python=3.14.0
+2026-04-09 13:19:52 | INFO | P5 | os=Windows 11
+2026-04-09 13:19:52 | INFO | P5 | shell=powershell
+2026-04-09 13:19:52 | INFO | P5 | cwd=.
+2026-04-09 13:19:52 | INFO | P5 | github_actions=False
+2026-04-09 13:19:52 | INFO | P5 | ========================
+2026-04-09 13:19:52 | INFO | P5 | START main()
+2026-04-09 13:19:52 | INFO | P5 | ========================
+2026-04-09 13:19:52 | INFO | P5 | ROOT_DIR = .
+2026-04-09 13:19:52 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 13:19:52 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 13:19:52 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 13:19:52 | INFO | P5 | Loaded 6676 current records
+2026-04-09 13:19:52 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 13:19:52 | INFO | P5 | Calculated summary statistics for reference and current periods
+2026-04-09 13:19:52 | INFO | P5 | Defined difference recipes for mean and standard deviation of temperature
+2026-04-09 13:19:52 | INFO | P5 | Applying drift flag recipes to determine if drift is occurring based on the defined thresholds.
+2026-04-09 13:19:52 | INFO | P5 | Calculated summary differences and drift flags
+2026-04-09 13:22:28 | INFO | P5 | === RUN START ===
+2026-04-09 13:22:28 | INFO | P5 | project=CINTEL
+2026-04-09 13:22:28 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 13:22:28 | INFO | P5 | python=3.14.0
+2026-04-09 13:22:28 | INFO | P5 | os=Windows 11
+2026-04-09 13:22:28 | INFO | P5 | shell=powershell
+2026-04-09 13:22:28 | INFO | P5 | cwd=.
+2026-04-09 13:22:28 | INFO | P5 | github_actions=False
+2026-04-09 13:22:28 | INFO | P5 | ========================
+2026-04-09 13:22:28 | INFO | P5 | START main()
+2026-04-09 13:22:28 | INFO | P5 | ========================
+2026-04-09 13:22:28 | INFO | P5 | ROOT_DIR = .
+2026-04-09 13:22:28 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 13:22:28 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 13:22:28 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 13:22:28 | INFO | P5 | Loaded 6676 current records
+2026-04-09 13:22:28 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 13:22:28 | INFO | P5 | Calculated summary statistics for reference and current periods
+2026-04-09 13:22:28 | INFO | P5 | Defined difference recipes for mean and standard deviation of temperature
+2026-04-09 13:22:28 | INFO | P5 | Applying drift flag recipes to determine if drift is occurring based on the defined thresholds.
+2026-04-09 13:22:28 | INFO | P5 | Calculated summary differences and drift flags
+2026-04-09 13:23:10 | INFO | P5 | === RUN START ===
+2026-04-09 13:23:10 | INFO | P5 | project=CINTEL
+2026-04-09 13:23:10 | INFO | P5 | repo_dir=cintel-05-drift-detection
+2026-04-09 13:23:10 | INFO | P5 | python=3.14.0
+2026-04-09 13:23:10 | INFO | P5 | os=Windows 11
+2026-04-09 13:23:10 | INFO | P5 | shell=powershell
+2026-04-09 13:23:10 | INFO | P5 | cwd=.
+2026-04-09 13:23:10 | INFO | P5 | github_actions=False
+2026-04-09 13:23:10 | INFO | P5 | ========================
+2026-04-09 13:23:10 | INFO | P5 | START main()
+2026-04-09 13:23:10 | INFO | P5 | ========================
+2026-04-09 13:23:10 | INFO | P5 | ROOT_DIR = .
+2026-04-09 13:23:10 | INFO | P5 | CURRENT_FILE = data\MLTempDataset.csv
+2026-04-09 13:23:10 | INFO | P5 | OUTPUT_FILE = artifacts\drift_summary_alex.csv
+2026-04-09 13:23:10 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-04-09 13:23:10 | INFO | P5 | Loaded 6676 current records
+2026-04-09 13:23:10 | INFO | P5 | Current dataframe schema: Schema({'DAYTON_MW': Float64, 'Datetime': Datetime(time_unit='us', time_zone=None)})
+2026-04-09 13:23:10 | INFO | P5 | Calculated summary statistics for reference and current periods
+2026-04-09 13:23:10 | INFO | P5 | Defined difference recipes for mean and standard deviation of temperature
+2026-04-09 13:23:10 | INFO | P5 | Applying drift flag recipes to determine if drift is occurring based on the defined thresholds.
+2026-04-09 13:23:10 | INFO | P5 | Calculated summary differences and drift flags
+2026-04-09 13:23:10 | INFO | P5 | Saved temperature trends plot: temperature_trends_alex.png
+2026-04-09 13:23:10 | INFO | P5 | Wrote drift summary file: C:\Repos\cintel-05-drift-detection\artifacts\drift_summary_alex.csv
+2026-04-09 13:23:10 | INFO | P5 | Drift summary dataframe:
+2026-04-09 13:23:10 | INFO | P5 | shape: (6_676, 10)
+┌───────────┬───────────────┬────────────────────┬────────────────────┬───┬────────────────────┬────────────────────┬────────────────────┬────────────────────┐
+│ DAYTON_MW ┆ Datetime      ┆ baseline_mean_temp ┆ baseline_sigma_tem ┆ … ┆ temperature_mean_d ┆ temperature_sigma_ ┆ temperature_is_dri ┆ temperature_sigma_ │
+│ ---       ┆ ---           ┆ ---                ┆ p                  ┆   ┆ ifference          ┆ difference         ┆ fting_flag         ┆ is_drifting_…      │
+│ f64       ┆ str           ┆ f64                ┆ ---                ┆   ┆ ---                ┆ ---                ┆ ---                ┆ ---                │
+│           ┆               ┆                    ┆ f64                ┆   ┆ f64                ┆ f64                ┆ bool               ┆ bool               │
+╞═══════════╪═══════════════╪════════════════════╪════════════════════╪═══╪════════════════════╪════════════════════╪════════════════════╪════════════════════╡
+│ 20.867    ┆ 01/04/2022 00 ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│ 21.0      ┆ 01/04/2022 01 ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│ 20.867    ┆ 01/04/2022 02 ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│ 20.65     ┆ 01/04/2022 03 ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│ 20.4      ┆ 01/04/2022 04 ┆ null               ┆ null               ┆ … ┆ null               ┆ null               ┆ null               ┆ null               │
+│ …         ┆ …             ┆ …                  ┆ …                  ┆ … ┆ …                  ┆ …                  ┆ …                  ┆ …                  │
+│ 27.35     ┆ 10/08/2022 23 ┆ 24.21              ┆ 4.85               ┆ … ┆ 2.41               ┆ -3.54              ┆ true               ┆ true               │
+│ 26.8      ┆ 10/09/2022 00 ┆ 24.21              ┆ 4.85               ┆ … ┆ 2.41               ┆ -3.54              ┆ true               ┆ true               │
+│ 26.45     ┆ 10/09/2022 01 ┆ 24.21              ┆ 4.84               ┆ … ┆ 2.42               ┆ -3.54              ┆ true               ┆ true               │
+│ 25.9      ┆ 10/09/2022 02 ┆ 24.23              ┆ 4.84               ┆ … ┆ 2.4                ┆ -3.54              ┆ true               ┆ true               │
+│ 25.567    ┆ 10/09/2022 03 ┆ 24.24              ┆ 4.84               ┆ … ┆ 2.4                ┆ -3.55              ┆ true               ┆ true               │
+└───────────┴───────────────┴────────────────────┴────────────────────┴───┴────────────────────┴────────────────────┴────────────────────┴────────────────────┘
+2026-04-09 13:23:10 | INFO | P5 | Let's make that a bit nicer to read...
+2026-04-09 13:23:10 | INFO | P5 | All remaining steps are about creating a nicer display.
+2026-04-09 13:23:10 | INFO | P5 | ========================
+2026-04-09 13:23:10 | INFO | P5 | Drift Detection Process: 
+2026-04-09 13:23:10 | INFO | P5 | ========================
+2026-04-09 13:23:10 | INFO | P5 | Created a file containing values flagged for drift.
+2026-04-09 13:23:10 | INFO | P5 | ========================
+2026-04-09 13:23:10 | INFO | P5 | Wrote long summary file: C:\Repos\cintel-05-drift-detection\artifacts\drift_summary_long_alex.csv
+2026-04-09 13:23:10 | INFO | P5 | ========================
+2026-04-09 13:23:10 | INFO | P5 | Pipeline executed successfully!
+2026-04-09 13:23:10 | INFO | P5 | ========================
+2026-04-09 13:23:10 | INFO | P5 | END main()
