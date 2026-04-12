@@ -18,8 +18,7 @@ ROOT_DIR: Final[Path] = Path.cwd()
 DATA_DIR: Final[Path] = ROOT_DIR / "data"
 ARTIFACTS_DIR: Final[Path] = ROOT_DIR / "artifacts"
 
-# REFERENCE_FILE: Final[Path] = DATA_DIR / "reference_metrics_case.csv"
-CURRENT_FILE: Final[Path] = DATA_DIR / "MLTempdataset.csv"
+CURRENT_FILE: Final[Path] = DATA_DIR / "airport_temp.csv"
 
 OUTPUT_FILE: Final[Path] = ARTIFACTS_DIR / "drift_summary_alex.csv"
 SUMMARY_LONG_FILE: Final[Path] = ARTIFACTS_DIR / "drift_summary_long_alex.csv"
@@ -35,9 +34,8 @@ SUMMARY_LONG_FILE: Final[Path] = ARTIFACTS_DIR / "drift_summary_long_alex.csv"
 # In this example, we compare current metrics to a reference period
 # and flag drift when the difference exceeds these thresholds:
 
-MEAN_DRIFT_THRESHOLD: Final[float] = 2.0
+MEAN_DRIFT_THRESHOLD: Final[float] = 15.0
 SIGMA_DRIFT_THRESHOLD: Final[float] = 2.0
-RATE_DRIFT_THRESHOLD: Final[float] = 10.0
 
 
 # === DEFINE THE MAIN FUNCTION ===
@@ -56,7 +54,6 @@ def main() -> None:
     LOG.info("========================")
 
     log_path(LOG, "ROOT_DIR", ROOT_DIR)
-    # log_path(LOG, "REFERENCE_FILE", REFERENCE_FILE)
     log_path(LOG, "CURRENT_FILE", CURRENT_FILE)
     log_path(LOG, "OUTPUT_FILE", OUTPUT_FILE)
 
@@ -69,16 +66,19 @@ def main() -> None:
     # ----------------------------------------------------
     # reference_df = pl.read_csv(REFERENCE_FILE)
     df = pl.read_csv(
-        CURRENT_FILE, columns=["Datetime", "DAYTON_MW"], try_parse_dates=True
+        CURRENT_FILE,
+        columns=["DATE", "TMP"],
+        schema={"DATE": pl.Datetime, "TMP": pl.Float64},
     )
 
-    df = df.sort("Datetime")  # Ensure the current dataframe is sorted by datetime
+    df = df.sort("DATE")
+
     LOG.info(f"Loaded {df.height} current records")
     LOG.info(f"Current dataframe schema: {df.schema}")
 
     # Define windows
-    baseline_window = 168  # a week of hourly data (24 hours * 7 days)
-    current_window = 24  # a day of hourly data (24 hours * 1 day)
+    baseline_window = 12
+    current_window = 2
     # ----------------------------------------------------
     # STEP 2: CALCULATE METRICS FOR EACH PERIOD
     # ----------------------------------------------------
@@ -89,13 +89,13 @@ def main() -> None:
     df = df.with_columns(
         [
             (
-                pl.col("DAYTON_MW")
+                pl.col("TMP")
                 .rolling_mean(window_size=baseline_window)
                 .shift(current_window)
                 .round(2)
                 .alias("baseline_mean_temp")
             ),
-            pl.col('DAYTON_MW')
+            pl.col('TMP')
             .rolling_std(window_size=baseline_window)
             .shift(current_window)
             .round(2)
@@ -105,11 +105,11 @@ def main() -> None:
 
     df = df.with_columns(
         [
-            pl.col("DAYTON_MW")
+            pl.col("TMP")
             .rolling_mean(window_size=current_window)
             .round(2)
             .alias("current_avg_temp"),
-            pl.col("DAYTON_MW")
+            pl.col("TMP")
             .rolling_std(window_size=current_window)
             .round(2)
             .alias("current_sigma_temp"),
@@ -181,31 +181,27 @@ def main() -> None:
         [
             mean_is_drifting_flag_recipe,
             sigma_is_drifting_flag_recipe,
-            pl.col("Datetime").dt.strftime("%m/%d/%Y %H"),
+            pl.col("DATE").dt.strftime("%m/%d/%Y %H:%M"),
         ]
     )
 
     LOG.info("Calculated summary differences and drift flags")
 
     ###Plot the raw temperature and the rolling average to visualize the data and potential drift.
-    """fig, axs = plt.subplots(2,2,tight_layout=True)
+    fig, axs = plt.subplots(1, 2, tight_layout=True)
+    axs[0].plot(drift_df["TMP"], label="Raw Temperature")
+    axs[1].plot(drift_df["current_avg_temp"], label="Current Avg Temp", linestyle='--')
+    axs[0].set_title("Temperature Trends Over Time")
+    axs[0].set_xlabel("Date")
+    axs[0].set_ylabel("Temperature (°F)")
+    axs[0].legend()
 
-    axs[0, 0].plot(drift_df['DAYTON_MW'], label="Raw Temperature")
-    axs[0, 0].set_title("Raw Temperature Over Time")
-    axs[0, 1].plot(drift_df["current_avg_temp"], label="Rolling Average Temperature", color="orange")
-    axs[0, 1].set_title("Rolling Average Temperature Over Time")
-    axs[1, 0].plot( drift_df["temperature_sigma_difference"], color="green")
-    axs[1, 0].set_title("Rolling Sigma Temperature Over Time")
-    axs[1, 1].plot(drift_df["temperature_mean_difference"], label="Mean Difference", color="red")
-    axs[1, 1].set_title("Mean Difference Over Time")
-    axs[0, 0].set_ylabel("Temperature")
-    axs[1, 0].set_ylabel("Temperature")
-    axs[1, 0].set_xlabel("Time")
-    axs[1, 1].sharex(axs[0, 0])
+    plt.locator_params(
+        axis='x', nbins=4
+    )  # Reduce number of x-axis ticks for readability
+    plt.savefig(ARTIFACTS_DIR / "temperature_trends_alex.png")
+    plt.close()
 
-    plt.locator_params(axis='x', nbins=4)  # Reduce number of x-axis ticks for readability
-
-    plt.savefig(ARTIFACTS_DIR / "temperature_trends_alex.png")"""
     fig, axs = plt.subplots(1, 2, tight_layout=True)
     axs[0].plot(drift_df["temperature_mean_difference"])
     axs[0].axhline(
@@ -220,12 +216,13 @@ def main() -> None:
         linestyle='--',
         label="Sigma Drift Threshold",
     )
+
     axs[1].axhline(y=-SIGMA_DRIFT_THRESHOLD, color='r', linestyle='--')
     axs[1].legend()
     axs[0].set_title("Mean Difference Over Time")
     axs[1].set_title("Standard Deviation Difference Over Time")
-    axs[0].set_ylabel("Difference (°C)")
-    axs[1].set_ylabel("Difference (°C)")
+    axs[0].set_ylabel("Difference (°F)")
+    axs[1].set_ylabel("Difference (°F)")
     axs[0].set_xlabel("Time")
     axs[1].set_xlabel("Time")
     plt.savefig(ARTIFACTS_DIR / "threshold_colored_alex.png")
