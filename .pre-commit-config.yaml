@@ -11,7 +11,7 @@
 # OBS: These hooks use and do NOT override:
 #   - .editorconfig (whitespace / indentation)
 #   - .gitattributes (EOL normalization)
-#   - pyproject.toml (Python tool settings)
+#   - project.toml (Python tool settings)
 #
 # OPTIONAL LOCAL USAGE (no repo venv required):
 #   You must have uv installed locally.

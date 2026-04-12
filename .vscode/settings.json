@@ -34,5 +34,8 @@
       ".github/workflows/*.yml",
       ".github/workflows/*.yaml"
     ]
-  }
+  },
+  "cSpell.words": [
+    "NCDC"
+  ]
 }

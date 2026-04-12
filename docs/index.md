@@ -6,25 +6,25 @@ Use the navigation to explore module-specific materials.
 ## Custom Project
 
 ### Dataset
-I used "NCDC Hourly Global Surface Variables-Selected Subset"
+I used "NCDC Hourly Global Surface Variables-Selected Subset" (https://catalog.data.gov/dataset/ncdc-hourly-global-surface-variables-selected-subset)
 to gather times and temperature data from "Sacramento Airport Surface Temperatures"
 I filtered the temperatures down so they only had a TMP_Q_CODE of 5 which corresponded to reasonable.
-Then temperature units are a bit confusing as apparently they are in celsius and multiploed by a faxto of 10.
+Then temperature units are a bit confusing as apparently they are in celsius and multiplied by a faxto of 10.
 
 ### Signals
-I utilized the temperature data to create rolling "curent" tempeature means and standard deviations. This was compared to a trailing baseline.
+I utilized the temperature data to create rolling "current" temperature means and standard deviations. This was compared to a trailing baseline.
 
 ### Experiments
-I attempted a few thermal datasets from Kaggle initially, but drift was impossible to detect as those datasets were apparently ill sampled. The final dataset used took one measurement per hour so I tried adjusting the trailing baseline window and currenly sized window.
+I attempted a few thermal datasets from Kaggle initially, but drift was impossible to detect as those datasets were apparently ill sampled. The final dataset used took one measurement per hour so I tried adjusting the trailing baseline window and currently sized window.
 
 ### Results
 The results are difficult to interpret. I overlooked a major scaling detail,
 the threshold visual artifact:
 C:\Repos\cintel-05-drift-detection\artifacts\threshold_colored_alex.png
-Does present a nice display of signals verus thresholds.
+Does present a nice display of signals versus thresholds.
 
 ### Interpretation
-This data was du=ifficult to work with so I can not draw any business nor analytical insights. One thing that stood out to me was the consistency of the surface ground air temperature at the airport. It is most likelt caused by frequent high heat transport.
+This data was difficult to work with so I can not draw any business nor analytical insights. One thing that stood out to me was the consistency of the surface ground air temperature at the airport. It is most likelt caused by frequent high heat transport.
 
 ## How-To Guide
 
