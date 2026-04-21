@@ -7,6 +7,7 @@ from typing import Final
 import matplotlib.pyplot as plt
 import polars as pl
 from datafun_toolkit.logger import get_logger, log_header, log_path
+from matplotlib import ticker
 
 # === CONFIGURE LOGGER ===
 
@@ -33,9 +34,6 @@ SUMMARY_LONG_FILE: Final[Path] = ARTIFACTS_DIR / "drift_summary_long_alex.csv"
 
 # In this example, we compare current metrics to a reference period
 # and flag drift when the difference exceeds these thresholds:
-
-MEAN_DRIFT_THRESHOLD: Final[float] = 15.0
-SIGMA_DRIFT_THRESHOLD: Final[float] = 2.0
 
 
 # === DEFINE THE MAIN FUNCTION ===
@@ -72,13 +70,15 @@ def main() -> None:
     )
 
     df = df.sort("DATE")
-
+    df = df.with_columns(
+        pl.col("TMP") / 10.0
+    )  # Unscale temperature for better visualization
     LOG.info(f"Loaded {df.height} current records")
     LOG.info(f"Current dataframe schema: {df.schema}")
 
     # Define windows
-    baseline_window = 12
-    current_window = 2
+    baseline_window = 2500
+    current_window = 500
     # ----------------------------------------------------
     # STEP 2: CALCULATE METRICS FOR EACH PERIOD
     # ----------------------------------------------------
@@ -86,7 +86,7 @@ def main() -> None:
     # For the current period, we calculate rolling averages and standard deviations to capture trends over time.
     # Since this is temperature data. we can expect baselines to change over time (e.g. seasonal patterns) and we want to capture that in our analysis.
     # Polars shifts the rolling calculations forward by default, so we shift them back by the size of the current window to align them with the end of the baseline period.
-    df = df.with_columns(
+    """df = df.with_columns(
         [
             (
                 pl.col("TMP")
@@ -101,8 +101,13 @@ def main() -> None:
             .round(2)
             .alias("baseline_sigma_temp"),
         ]
-    )
-
+    )"""
+    baseline_mean_temp = df["TMP"].head(baseline_window).mean()
+    baseline_sigma_temp = df["TMP"].head(baseline_window).std()
+    MEAN_DRIFT_THRESHOLD = (
+        baseline_mean_temp * 1.1
+    )  # Example: 10% increase over baseline mean
+    SIGMA_DRIFT_THRESHOLD = 1.0  # Example: 1 degree increase in standard deviation
     df = df.with_columns(
         [
             pl.col("TMP")
@@ -128,13 +133,13 @@ def main() -> None:
     # Negative values mean the current period is smaller.
 
     temperature_mean_difference_recipe: pl.Expr = (
-        (pl.col("current_avg_temp") - pl.col("baseline_mean_temp"))
+        (pl.col("current_avg_temp") - baseline_mean_temp)
         .round(2)
         .alias("temperature_mean_difference")
     )
 
     temperature_sigma_difference_recipe: pl.Expr = (
-        (pl.col("current_sigma_temp") - pl.col("baseline_sigma_temp"))
+        (pl.col("current_sigma_temp") - baseline_sigma_temp)
         .round(2)
         .alias("temperature_sigma_difference")
     )
@@ -181,7 +186,6 @@ def main() -> None:
         [
             mean_is_drifting_flag_recipe,
             sigma_is_drifting_flag_recipe,
-            pl.col("DATE").dt.strftime("%m/%d/%Y %H:%M"),
         ]
     )
 
@@ -189,42 +193,49 @@ def main() -> None:
 
     ###Plot the raw temperature and the rolling average to visualize the data and potential drift.
     fig, axs = plt.subplots(1, 2, tight_layout=True)
-    axs[0].plot(drift_df["TMP"], label="Raw Temperature")
-    axs[1].plot(drift_df["current_avg_temp"], label="Current Avg Temp", linestyle='--')
-    axs[0].set_title("Temperature Trends Over Time")
-    axs[0].set_xlabel("Date")
-    axs[0].set_ylabel("Temperature (°F)")
-    axs[0].legend()
+    axs[0].plot(drift_df["DATE"], drift_df["TMP"])
+    axs[1].plot(drift_df["DATE"], drift_df["current_avg_temp"])
+    axs[0].set_title("Raw Temperature")
+    axs[1].set_title("Smoothed Temperature")
+    fig.suptitle("Temperature Trends Over Time")
+    fig.supxlabel("Date")
+    fig.supylabel("Temperature (°C)")
 
-    plt.locator_params(
-        axis='x', nbins=4
-    )  # Reduce number of x-axis ticks for readability
+    axs[0].xaxis.set_major_locator(ticker.MaxNLocator(nbins=5))
+    axs[0].tick_params(axis='x', rotation=45)
+    axs[1].xaxis.set_major_locator(ticker.MaxNLocator(nbins=5))
+    axs[1].tick_params(axis='x', rotation=45)
     plt.savefig(ARTIFACTS_DIR / "temperature_trends_alex.png")
     plt.close()
 
     fig, axs = plt.subplots(1, 2, tight_layout=True)
-    axs[0].plot(drift_df["temperature_mean_difference"])
+    axs[0].plot(drift_df["DATE"], drift_df["temperature_mean_difference"])
     axs[0].axhline(
         y=MEAN_DRIFT_THRESHOLD, color='r', linestyle='--', label="Mean Drift Threshold"
     )
     axs[0].axhline(y=-MEAN_DRIFT_THRESHOLD, color='r', linestyle='--')
     axs[0].legend()
-    axs[1].plot(drift_df["temperature_sigma_difference"])
+    axs[1].plot(drift_df["DATE"], drift_df["temperature_sigma_difference"])
     axs[1].axhline(
         y=SIGMA_DRIFT_THRESHOLD,
         color='r',
         linestyle='--',
-        label="Sigma Drift Threshold",
+        label="Standard Deviation Threshold",
     )
 
     axs[1].axhline(y=-SIGMA_DRIFT_THRESHOLD, color='r', linestyle='--')
     axs[1].legend()
-    axs[0].set_title("Mean Difference Over Time")
-    axs[1].set_title("Standard Deviation Difference Over Time")
-    axs[0].set_ylabel("Difference (°F)")
-    axs[1].set_ylabel("Difference (°F)")
-    axs[0].set_xlabel("Time")
-    axs[1].set_xlabel("Time")
+    axs[0].set_title("Mean Difference")
+    axs[1].set_title("Std Difference")
+    fig.suptitle("Difference from Baseline Over Time")
+    axs[0].set_ylabel("Difference (°C)")
+    axs[1].set_ylabel("Difference (°C)")
+    axs[0].set_xlabel("Date")
+    axs[1].set_xlabel("Date")
+    axs[0].xaxis.set_major_locator(ticker.MaxNLocator(nbins=5))
+    axs[0].tick_params(axis='x', rotation=45)
+    axs[1].xaxis.set_major_locator(ticker.MaxNLocator(nbins=5))
+    axs[1].tick_params(axis='x', rotation=45)
     plt.savefig(ARTIFACTS_DIR / "threshold_colored_alex.png")
     LOG.info("Saved temperature trends plot: temperature_trends_alex.png")
 
